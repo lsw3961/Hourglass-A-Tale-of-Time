@@ -5141,3 +5141,1128 @@ Purging the undo buffer...
 [2021.10.01-22.02.07:971][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
 [2021.10.01-22.02.08:021][774]LogPlayLevel: Display: Destroying online subsystem :Context_65
 [2021.10.01-22.02.08:046][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.10.01-22.02.34:064][428]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin
+[2021.10.01-22.02.50:934][ 73]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Hour_of_Code/Widgets/W_HUD.W_HUD
+[2021.10.01-22.03.41:690][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.10.01-22.03.41:709][750]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_04_end_Auto3697AAE9940EF62ABE69165BC69CA9284.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/Hour_of_Code/Maps/Level_04_end_Auto3.umap'
+[2021.10.01-22.03.41:744][750]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_05_end_Auto3D650052C4C733BA5627E03BF151E7908.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/Hour_of_Code/Maps/Level_05_end_Auto3.umap'
+[2021.10.01-22.03.41:757][750]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_03_end_Auto3807559ED4E2496872EFD0AA0D6CB80DD.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/Hour_of_Code/Maps/Level_03_end_Auto3.umap'
+[2021.10.01-22.03.41:757][750]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Hour_of_Code/Maps/Level_HOC_world' took 0.095
+[2021.10.01-22.03.41:757][750]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.095
+[2021.10.01-22.06.58:123][438]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2021.10.01-22.08.42:974][ 81]BlueprintLog: New page: Compile BP_coin
+[2021.10.01-22.08.43:070][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.10.01-22.08.44:989][231]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-22.08.44:996][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-22.08.44:996][231]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 2:08:44 PM)
+[2021.10.01-22.08.45:023][231]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.08.45:076][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052939s)
+[2021.10.01-22.08.45:077][231]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.08.45:077][231]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FCB4054400), frame # 857231
+[2021.10.01-22.08.45:077][231]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FC0F5BBEC0), frame # 857231
+[2021.10.01-22.08.45:077][231]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2021.10.01-22.08.45:077][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.054308s)
+[2021.10.01-22.08.45:110][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.10.01-22.08.45:112][231]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-22.08.45:112][231]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-22.08.45:112][231]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-22.08.45:112][231]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-22.08.45:112][231]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-22.08.45:112][231]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-22.08.45:112][231]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-22.08.45:112][231]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-22.08.45:113][231]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-22.08.45:113][231]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-22.08.45:121][231]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-22.08.45:122][231]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-22.08.45:142][231]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-22.08.45:142][231]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-22.08.45:142][231]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-22.08.45:142][231]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-22.08.45:143][231]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-22.08.45:154][231]LogInit: FAudioDevice initialized.
+[2021.10.01-22.08.45:164][231]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.08.45:207][231]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.08.45
+[2021.10.01-22.08.46:660][231]LogWorld: Bringing up level for play took: 1.472430
+[2021.10.01-22.08.46:661][231]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2021.10.01-22.08.46:666][231]PIE: Server logged in
+[2021.10.01-22.08.46:667][231]PIE: Play in editor total start time 1.671 seconds.
+[2021.10.01-22.08.56:704][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.08.56:704][ 75]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.08.56:705][ 75]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.08.56:710][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.08.56:716][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-22.08.56:722][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.08.56:769][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.08.56:779][ 75]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FC0F5BBEC0), frame # 858075
+[2021.10.01-22.08.56:779][ 75]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FCB4054400), frame # 858075
+[2021.10.01-22.08.56:783][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.10.01-22.08.56:830][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2021.10.01-22.08.56:863][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.10.01-22.09.13:399][411]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost
+[2021.10.01-22.11.13:602][388]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  On Component Begin Overlap (Sphere_coll)  and was replaced as a Custom Event!
+[2021.10.01-22.11.30:085][412]BlueprintLog: New page: Compile BP_jumpBoost
+[2021.10.01-22.11.30:144][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.10.01-22.13.23:678][292]BlueprintLog: New page: Compile BP_jumpBoost
+[2021.10.01-22.13.23:736][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.10.01-22.13.26:365][478]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-22.13.26:372][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-22.13.26:372][478]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 2:13:26 PM)
+[2021.10.01-22.13.26:394][478]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.13.26:446][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052861s)
+[2021.10.01-22.13.26:447][478]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.13.26:447][478]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FD5DB26600), frame # 875478
+[2021.10.01-22.13.26:447][478]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FDA40FDA80), frame # 875478
+[2021.10.01-22.13.26:447][478]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2021.10.01-22.13.26:447][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.054261s)
+[2021.10.01-22.13.26:480][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.10.01-22.13.26:483][478]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-22.13.26:483][478]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-22.13.26:483][478]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-22.13.26:483][478]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-22.13.26:483][478]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-22.13.26:483][478]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-22.13.26:483][478]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-22.13.26:483][478]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-22.13.26:483][478]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-22.13.26:483][478]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-22.13.26:492][478]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-22.13.26:492][478]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-22.13.26:512][478]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-22.13.26:512][478]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-22.13.26:512][478]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-22.13.26:512][478]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-22.13.26:512][478]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-22.13.26:525][478]LogInit: FAudioDevice initialized.
+[2021.10.01-22.13.26:531][478]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.13.26:575][478]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.13.26
+[2021.10.01-22.13.28:032][478]LogWorld: Bringing up level for play took: 1.477709
+[2021.10.01-22.13.28:033][478]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2021.10.01-22.13.28:038][478]PIE: Server logged in
+[2021.10.01-22.13.28:039][478]PIE: Play in editor total start time 1.667 seconds.
+[2021.10.01-22.13.45:494][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.13.45:494][783]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.13.45:496][783]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.13.45:501][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.13.45:525][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-22.13.45:531][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.13.45:564][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.13.45:582][783]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FDA40FDA80), frame # 876783
+[2021.10.01-22.13.45:582][783]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FD5DB26600), frame # 876783
+[2021.10.01-22.13.45:587][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.10.01-22.13.45:645][784]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2021.10.01-22.13.45:677][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.10.01-22.13.46:087][812]Cmd: SELECT NONE
+[2021.10.01-22.13.48:920][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_S22)
+[2021.10.01-22.13.49:061][ 23]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.13.51:009][147]LogEditorViewport: Clicking on Actor (LMB): BP_coin_C (BP_coin30)
+[2021.10.01-22.13.51:400][169]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.13.55:504][407]LogEditorViewport: Clicking on Actor (LMB): bp_myKey_C (bp_myKey)
+[2021.10.01-22.13.57:742][564]LogEditorViewport: Clicking on Actor (LMB): bp_myKey_C (bp_myKey)
+[2021.10.01-22.13.58:651][622]Cmd: DELETE
+[2021.10.01-22.13.58:651][622]Cmd: ACTOR DELETE
+[2021.10.01-22.13.58:668][622]LogEditorActor: Deleted Actor: bp_myKey_C
+[2021.10.01-22.13.58:702][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.10.01-22.13.58:707][622]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2021.10.01-22.14.06:297][189]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.10.01-22.14.07:971][295]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.14.13:316][620]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.14.22:135][178]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.14.28:695][596]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.14.32:918][886]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.14.40:821][409]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.14.46:329][738]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.14.53:713][208]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.14.56:224][376]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.14.57:981][494]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.15.00:420][658]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.15.01:260][712]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.15.06:979][101]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.15.07:708][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MA_setDressing_c16)
+[2021.10.01-22.15.44:750][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.10.01-22.15.45:007][440]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_HOC_world108DB1764B5283968D51959A155A3611.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Maps/Level_HOC_world.umap'
+[2021.10.01-22.15.45:661][440]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_HOC_world_BuiltDataE5751DD141FAA7CDCFB8C6A4BC8349B4.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Maps/Level_HOC_world_BuiltData.uasset'
+[2021.10.01-22.15.45:710][440]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.01-22.15.45:710][440]LogContentValidation: Display: Validating World /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world
+[2021.10.01-22.15.45:710][440]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Hour_of_Code/Maps/Level_HOC_world_BuiltData.Level_HOC_world_BuiltData
+[2021.10.01-22.15.47:883][572]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/BP_jumpBoost7A0CB58242B127009C02369F31DEA7D3.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Blueprints/BP_jumpBoost.uasset'
+[2021.10.01-22.15.47:901][572]AssetCheck: New page: Asset Save: BP_jumpBoost
+[2021.10.01-22.15.47:901][572]LogContentValidation: Display: Validating Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost
+[2021.10.01-22.15.51:049][783]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/BP_coin480F5CD84D22604CC348CDAB8D29B8D9.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Blueprints/BP_coin.uasset'
+[2021.10.01-22.15.51:061][783]AssetCheck: New page: Asset Save: BP_coin
+[2021.10.01-22.15.51:061][783]LogContentValidation: Display: Validating Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin
+[2021.10.01-22.16.15:988][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.10.01-22.16.16:028][543]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_05_end_Auto48235BC5C47B007DCA570FAB14B0F9ED8.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/Hour_of_Code/Maps/Level_05_end_Auto4.umap'
+[2021.10.01-22.16.16:042][543]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_03_end_Auto4353708674D60C98FB9CE31AE755A0AD3.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/Hour_of_Code/Maps/Level_03_end_Auto4.umap'
+[2021.10.01-22.16.16:043][543]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Hour_of_Code/Maps/Level_HOC_world' took 0.088
+[2021.10.01-22.16.16:043][543]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.088
+[2021.10.01-22.16.16:043][543]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AddedContent/Sequences/BouncingIsland] ([1] browsable assets)...
+[2021.10.01-22.16.16:043][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/AddedContent/Sequences/BouncingIsland]
+[2021.10.01-22.16.16:047][543]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/BouncingIsland_Auto44DAD83D541A4C0E140D03484388A6307.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/AddedContent/Sequences/BouncingIsland_Auto4.uasset'
+[2021.10.01-22.16.16:048][543]LogFileHelpers: Auto-saving content packages took 0.005
+[2021.10.01-22.18.31:779][164]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.01-22.19.49:626][164]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/W_gameCompletion54041C0B49A1FFA518ACC9A42B25A062.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset'
+[2021.10.01-22.19.49:639][164]AssetCheck: New page: Asset Save: W_gameCompletion
+[2021.10.01-22.19.49:639][164]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.01-22.21.24:547][691]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.01-22.21.34:757][301]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.01-22.22.46:002][ 54]BlueprintLog: New page: Compile W_gameCompletion
+[2021.10.01-22.22.46:006][ 54]LogBlueprint: Warning: [Compiler W_gameCompletion] Get Current Level Name  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.10.01-22.22.46:050][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.10.01-22.22.59:117][962]BlueprintLog: New page: Compile W_gameCompletion
+[2021.10.01-22.22.59:158][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.10.01-22.23.03:854][281]BlueprintLog: New page: Compile W_gameCompletion
+[2021.10.01-22.23.03:893][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.10.01-22.23.45:976][156]BlueprintLog: New page: Compile W_gameCompletion
+[2021.10.01-22.23.46:018][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.10.01-22.23.50:907][447]LogSlate: Window 'Widget Reflector' being destroyed
+[2021.10.01-22.23.50:912][447]LogSlate: Window 'Widget Reflector' being destroyed
+[2021.10.01-22.23.54:025][637]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/W_gameCompletionE0B6297D44CA510920F8B4BCE2D5A832.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset'
+[2021.10.01-22.23.54:036][637]AssetCheck: New page: Asset Save: W_gameCompletion
+[2021.10.01-22.23.54:036][637]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.01-22.23.54:908][688]LogEditorViewport: Clicking Background
+[2021.10.01-22.24.08:832][655]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.24.10:288][755]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.24.10:564][770]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.24.15:005][ 35]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.24.16:761][154]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.24.19:906][369]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.24.20:687][420]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.24.22:850][549]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-22.24.22:857][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-22.24.22:857][549]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 2:24:22 PM)
+[2021.10.01-22.24.22:884][549]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.24.22:937][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052495s)
+[2021.10.01-22.24.22:938][549]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.24.22:938][549]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FD53BA8C00), frame # 912549
+[2021.10.01-22.24.22:938][549]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FD8C9F4F40), frame # 912549
+[2021.10.01-22.24.22:938][549]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2021.10.01-22.24.22:938][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.053908s)
+[2021.10.01-22.24.22:975][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.10.01-22.24.22:979][549]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-22.24.22:979][549]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-22.24.22:979][549]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-22.24.22:979][549]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-22.24.22:980][549]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-22.24.22:980][549]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-22.24.22:980][549]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-22.24.22:980][549]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-22.24.22:980][549]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-22.24.22:980][549]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-22.24.22:989][549]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-22.24.22:989][549]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-22.24.23:009][549]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-22.24.23:009][549]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-22.24.23:009][549]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-22.24.23:010][549]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-22.24.23:010][549]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-22.24.23:022][549]LogInit: FAudioDevice initialized.
+[2021.10.01-22.24.23:034][549]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.24.23:078][549]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.24.23
+[2021.10.01-22.24.24:536][549]LogWorld: Bringing up level for play took: 1.478277
+[2021.10.01-22.24.24:536][549]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2021.10.01-22.24.24:538][549]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.10.01-22.24.24:539][549]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [EpicCharacter_C]
+[2021.10.01-22.24.24:540][549]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type EpicCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2021.10.01-22.24.24:542][549]PIE: Server logged in
+[2021.10.01-22.24.24:543][549]PIE: Play in editor total start time 1.687 seconds.
+[2021.10.01-22.24.27:736][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.24.27:736][774]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.24.27:737][774]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.24.27:742][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.24.27:761][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-22.24.27:767][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.24.27:819][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.24.27:831][774]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FD8C9F4F40), frame # 912774
+[2021.10.01-22.24.27:831][774]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FD53BA8C00), frame # 912774
+[2021.10.01-22.24.27:833][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.10.01-22.24.27:870][775]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2021.10.01-22.24.27:904][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.10.01-22.24.28:996][856]Cmd: SELECT NONE
+[2021.10.01-22.24.34:419][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIslaind_L7)
+[2021.10.01-22.24.51:191][395]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.24.54:310][603]Cmd: TRANSACTION UNDO
+[2021.10.01-22.24.54:310][603]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.24.57:150][766]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.24.58:714][870]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.25.03:674][191]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.25.06:621][391]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.25.07:321][437]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.25.09:308][574]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.25.12:266][775]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.25.12:428][783]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.25.19:198][222]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.25.20:391][301]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.25.23:790][505]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.25.26:217][638]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.25.27:799][746]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.25.29:028][827]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-22.25.29:035][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-22.25.29:035][827]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 2:25:29 PM)
+[2021.10.01-22.25.29:035][827]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.25.29:089][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053507s)
+[2021.10.01-22.25.29:090][827]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.25.29:090][827]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FCD14F5800), frame # 916827
+[2021.10.01-22.25.29:090][827]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FD8AEC2200), frame # 916827
+[2021.10.01-22.25.29:090][827]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2021.10.01-22.25.29:090][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.054819s)
+[2021.10.01-22.25.29:124][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.10.01-22.25.29:130][827]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-22.25.29:130][827]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-22.25.29:130][827]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-22.25.29:130][827]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-22.25.29:130][827]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-22.25.29:130][827]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-22.25.29:130][827]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-22.25.29:130][827]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-22.25.29:130][827]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-22.25.29:130][827]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-22.25.29:138][827]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-22.25.29:138][827]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-22.25.29:158][827]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-22.25.29:158][827]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-22.25.29:158][827]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-22.25.29:158][827]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-22.25.29:159][827]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-22.25.29:171][827]LogInit: FAudioDevice initialized.
+[2021.10.01-22.25.29:179][827]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.25.29:223][827]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.25.29
+[2021.10.01-22.25.30:683][827]LogWorld: Bringing up level for play took: 1.480203
+[2021.10.01-22.25.30:683][827]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2021.10.01-22.25.30:685][827]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.10.01-22.25.30:686][827]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [EpicCharacter_C]
+[2021.10.01-22.25.30:687][827]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type EpicCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2021.10.01-22.25.30:689][827]PIE: Server logged in
+[2021.10.01-22.25.30:690][827]PIE: Play in editor total start time 1.655 seconds.
+[2021.10.01-22.25.32:246][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.25.32:246][933]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.25.32:247][933]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.25.32:252][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.25.32:264][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-22.25.32:270][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.25.32:321][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.25.32:325][933]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FD8AEC2200), frame # 916933
+[2021.10.01-22.25.32:325][933]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FCD14F5800), frame # 916933
+[2021.10.01-22.25.32:329][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.10.01-22.25.32:350][934]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2021.10.01-22.25.32:384][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.10.01-22.25.35:406][141]LogEditorViewport: Clicking on Actor (LMB): Emitter (VFX_pollen)
+[2021.10.01-22.25.36:486][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cloud_B22)
+[2021.10.01-22.25.38:472][328]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.38:472][328]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.01-22.25.39:057][339]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.39:057][339]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.01-22.25.39:253][355]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.39:253][355]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.25.40:079][418]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.40:079][418]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.25.40:390][443]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.40:390][443]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.25.41:196][509]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.41:197][509]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.25.42:620][621]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.42:620][621]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.25.42:844][639]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.42:844][639]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.25.43:214][667]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.43:214][667]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.25.43:476][688]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.43:476][688]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.25.43:702][706]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.43:702][706]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.25.43:900][722]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.43:900][722]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.01-22.25.44:599][773]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.44:599][773]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.01-22.25.44:772][782]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.44:772][782]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.01-22.25.44:917][788]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.44:917][788]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.01-22.25.45:332][822]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.45:332][822]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.25.46:191][888]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.46:191][888]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.25.52:536][376]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.52:536][376]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.01-22.25.52:754][381]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.52:754][381]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.25.53:180][397]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.53:180][397]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.25.54:362][493]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.25.54:362][493]Can't find target actor or component.
+[2021.10.01-22.25.55:780][606]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.25.56:829][679]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.56:829][679]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.01-22.25.56:996][683]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.56:996][683]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.01-22.25.57:132][685]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.57:132][685]LogEditorTransaction: Undo Clicking Background
+[2021.10.01-22.25.57:270][686]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.57:270][686]LogEditorTransaction: Undo Move Node
+[2021.10.01-22.25.57:396][687]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.57:396][687]LogEditorTransaction: Undo Create Pin Link
+[2021.10.01-22.25.57:531][689]Cmd: TRANSACTION UNDO
+[2021.10.01-22.25.57:531][689]LogEditorTransaction: Undo Create Pin Link
+[2021.10.01-22.25.58:703][762]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.26.07:258][319]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.07:259][319]LogEditorTransaction: Undo Move Node
+[2021.10.01-22.26.07:487][322]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.07:487][322]LogEditorTransaction: Undo Delete current selection
+[2021.10.01-22.26.07:639][323]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.07:639][323]LogEditorTransaction: Undo Move Node
+[2021.10.01-22.26.07:802][324]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.07:802][324]LogEditorTransaction: Undo Add Node
+[2021.10.01-22.26.08:406][358]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.08:406][358]LogEditorTransaction: Undo Create Pin Link
+[2021.10.01-22.26.08:586][364]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.08:586][364]LogEditorTransaction: Undo Move Node
+[2021.10.01-22.26.08:751][370]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.08:751][370]LogEditorTransaction: Undo Create Pin Link
+[2021.10.01-22.26.08:852][372]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.08:852][372]LogEditorTransaction: Undo Move Node
+[2021.10.01-22.26.09:706][425]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.26.10:707][494]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.10:707][494]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.01-22.26.10:864][499]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.10:864][499]LogEditorTransaction: Undo Move Node
+[2021.10.01-22.26.10:996][501]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.10:996][501]LogEditorTransaction: Undo Create Pin Link
+[2021.10.01-22.26.11:125][503]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.11:125][503]LogEditorTransaction: Undo Create Pin Link
+[2021.10.01-22.26.11:265][507]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.11:265][507]LogEditorTransaction: Undo Add Node
+[2021.10.01-22.26.11:609][523]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.26.13:021][615]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.13:021][615]LogEditorTransaction: Undo Delete current selection
+[2021.10.01-22.26.13:168][617]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.13:168][617]LogEditorTransaction: Undo Add Node
+[2021.10.01-22.26.13:297][619]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.13:297][619]LogEditorTransaction: Undo Add Node
+[2021.10.01-22.26.13:439][623]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.13:439][623]LogEditorTransaction: Undo Add Node
+[2021.10.01-22.26.13:610][630]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.13:610][630]LogEditorTransaction: Undo Edit Background Color
+[2021.10.01-22.26.13:751][633]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.13:751][633]LogEditorTransaction: Undo Edit Color and Opacity
+[2021.10.01-22.26.13:899][637]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.13:899][637]LogEditorTransaction: Undo Move Widget
+[2021.10.01-22.26.14:035][640]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.14:035][640]LogEditorTransaction: Undo Resize Widget
+[2021.10.01-22.26.14:414][659]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.26.15:883][756]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.15:883][756]LogEditorTransaction: Undo Resize Widget
+[2021.10.01-22.26.16:428][788]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.16:428][788]LogEditorTransaction: Undo Add Widget
+[2021.10.01-22.26.16:615][800]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.16:615][800]LogEditorTransaction: Undo Rename Widget
+[2021.10.01-22.26.16:778][810]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.16:778][810]LogEditorTransaction: Undo Edit Text
+[2021.10.01-22.26.16:920][818]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.16:920][818]LogEditorTransaction: Undo Edit Text
+[2021.10.01-22.26.17:077][830]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.17:077][830]LogEditorTransaction: Undo Edit Text
+[2021.10.01-22.26.17:245][843]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.17:245][843]LogEditorTransaction: Undo Add Pin
+[2021.10.01-22.26.19:043][986]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-22.26.19:050][986]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.01-22.26.19:051][986]LogPlayLevel: [PlayLevel] Compiling W_gameCompletion before play...
+[2021.10.01-22.26.19:130][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.10.01-22.26.19:134][986]LogPlayLevel: PlayLevel: Blueprint regeneration took 84 ms (1 blueprints)
+[2021.10.01-22.26.19:134][986]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 2:26:19 PM)
+[2021.10.01-22.26.19:135][986]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.26.19:186][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051124s)
+[2021.10.01-22.26.19:187][986]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.26.19:187][986]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FCBA969400), frame # 919986
+[2021.10.01-22.26.19:187][986]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FD57632480), frame # 919986
+[2021.10.01-22.26.19:187][986]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2021.10.01-22.26.19:187][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.052740s)
+[2021.10.01-22.26.19:222][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.10.01-22.26.19:223][986]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-22.26.19:223][986]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-22.26.19:223][986]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-22.26.19:223][986]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-22.26.19:223][986]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-22.26.19:223][986]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-22.26.19:223][986]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-22.26.19:223][986]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-22.26.19:223][986]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-22.26.19:224][986]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-22.26.19:231][986]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-22.26.19:232][986]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-22.26.19:250][986]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-22.26.19:250][986]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-22.26.19:251][986]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-22.26.19:251][986]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-22.26.19:251][986]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-22.26.19:264][986]LogInit: FAudioDevice initialized.
+[2021.10.01-22.26.19:269][986]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.26.19:316][986]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.26.19
+[2021.10.01-22.26.20:763][986]LogWorld: Bringing up level for play took: 1.468942
+[2021.10.01-22.26.20:764][986]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2021.10.01-22.26.20:765][986]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.10.01-22.26.20:767][986]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [EpicCharacter_C]
+[2021.10.01-22.26.20:767][986]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type EpicCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2021.10.01-22.26.20:769][986]PIE: Server logged in
+[2021.10.01-22.26.20:770][986]PIE: Play in editor total start time 1.72 seconds.
+[2021.10.01-22.26.22:535][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.26.22:536][136]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.26.22:537][136]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.26.22:542][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.26.22:554][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-22.26.22:560][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.26.22:593][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.26.22:614][136]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FD57632480), frame # 920136
+[2021.10.01-22.26.22:614][136]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FCBA969400), frame # 920136
+[2021.10.01-22.26.22:619][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.10.01-22.26.22:639][137]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2021.10.01-22.26.22:672][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.10.01-22.26.26:931][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_S31)
+[2021.10.01-22.26.29:000][649]Cmd: TRANSACTION UNDO
+[2021.10.01-22.26.29:000][649]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.01-22.26.42:612][873]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.26.44:020][993]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-22.26.44:027][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-22.26.44:027][993]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 2:26:44 PM)
+[2021.10.01-22.26.44:027][993]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.26.44:080][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052907s)
+[2021.10.01-22.26.44:081][993]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.26.44:081][993]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FD7C1E4C00), frame # 921993
+[2021.10.01-22.26.44:081][993]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FD593AE200), frame # 921993
+[2021.10.01-22.26.44:081][993]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2021.10.01-22.26.44:081][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.054189s)
+[2021.10.01-22.26.44:116][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.10.01-22.26.44:121][993]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-22.26.44:121][993]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-22.26.44:121][993]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-22.26.44:121][993]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-22.26.44:121][993]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-22.26.44:121][993]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-22.26.44:121][993]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-22.26.44:121][993]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-22.26.44:122][993]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-22.26.44:122][993]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-22.26.44:130][993]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-22.26.44:130][993]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-22.26.44:148][993]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-22.26.44:148][993]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-22.26.44:148][993]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-22.26.44:148][993]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-22.26.44:149][993]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-22.26.44:163][993]LogInit: FAudioDevice initialized.
+[2021.10.01-22.26.44:173][993]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.26.44:218][993]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.26.44
+[2021.10.01-22.26.45:673][993]LogWorld: Bringing up level for play took: 1.475526
+[2021.10.01-22.26.45:674][993]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2021.10.01-22.26.45:675][993]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.10.01-22.26.45:677][993]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [EpicCharacter_C]
+[2021.10.01-22.26.45:677][993]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type EpicCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2021.10.01-22.26.45:679][993]PIE: Server logged in
+[2021.10.01-22.26.45:680][993]PIE: Play in editor total start time 1.654 seconds.
+[2021.10.01-22.26.54:546][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.26.54:546][767]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.26.54:548][767]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.26.54:552][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.26.54:560][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-22.26.54:565][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.26.54:619][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.26.54:622][767]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FD593AE200), frame # 922767
+[2021.10.01-22.26.54:622][767]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FD7C1E4C00), frame # 922767
+[2021.10.01-22.26.54:626][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.10.01-22.26.54:662][768]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2021.10.01-22.26.54:698][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.10.01-22.26.56:477][933]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-22.26.56:484][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-22.26.56:484][933]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 2:26:56 PM)
+[2021.10.01-22.26.56:484][933]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.26.56:537][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052427s)
+[2021.10.01-22.26.56:538][933]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.26.56:538][933]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FCF649DC00), frame # 922933
+[2021.10.01-22.26.56:538][933]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FC64BF3D80), frame # 922933
+[2021.10.01-22.26.56:538][933]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2021.10.01-22.26.56:538][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.053751s)
+[2021.10.01-22.26.56:573][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.10.01-22.26.56:576][933]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-22.26.56:576][933]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-22.26.56:576][933]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-22.26.56:576][933]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-22.26.56:576][933]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-22.26.56:576][933]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-22.26.56:576][933]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-22.26.56:576][933]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-22.26.56:576][933]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-22.26.56:576][933]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-22.26.56:584][933]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-22.26.56:584][933]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-22.26.56:603][933]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-22.26.56:603][933]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-22.26.56:603][933]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-22.26.56:603][933]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-22.26.56:604][933]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-22.26.56:616][933]LogInit: FAudioDevice initialized.
+[2021.10.01-22.26.56:624][933]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.26.56:669][933]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.26.56
+[2021.10.01-22.26.58:137][933]LogWorld: Bringing up level for play took: 1.488448
+[2021.10.01-22.26.58:137][933]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2021.10.01-22.26.58:139][933]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.10.01-22.26.58:140][933]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [EpicCharacter_C]
+[2021.10.01-22.26.58:140][933]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type EpicCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2021.10.01-22.26.58:142][933]PIE: Server logged in
+[2021.10.01-22.26.58:143][933]PIE: Play in editor total start time 1.66 seconds.
+[2021.10.01-22.27.02:255][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.27.02:255][379]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.27.02:256][379]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.27.02:261][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.27.02:270][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-22.27.02:276][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.27.02:326][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.27.02:329][379]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FC64BF3D80), frame # 923379
+[2021.10.01-22.27.02:329][379]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FCF649DC00), frame # 923379
+[2021.10.01-22.27.02:333][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.10.01-22.27.02:367][380]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2021.10.01-22.27.02:400][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.10.01-22.27.06:496][771]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-22.27.06:503][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-22.27.06:503][771]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 2:27:06 PM)
+[2021.10.01-22.27.06:534][771]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.27.06:586][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052250s)
+[2021.10.01-22.27.06:587][771]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.27.06:587][771]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FD2FD8CA00), frame # 923771
+[2021.10.01-22.27.06:587][771]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FD53A7EE80), frame # 923771
+[2021.10.01-22.27.06:588][771]LogPlayLevel: PIE: World Init took: (0.001215s)
+[2021.10.01-22.27.06:588][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.053719s)
+[2021.10.01-22.27.06:622][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.10.01-22.27.06:625][771]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-22.27.06:625][771]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-22.27.06:626][771]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-22.27.06:626][771]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-22.27.06:626][771]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-22.27.06:626][771]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-22.27.06:626][771]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-22.27.06:626][771]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-22.27.06:626][771]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-22.27.06:626][771]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-22.27.06:634][771]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-22.27.06:634][771]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-22.27.06:653][771]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-22.27.06:653][771]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-22.27.06:653][771]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-22.27.06:653][771]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-22.27.06:654][771]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-22.27.06:667][771]LogInit: FAudioDevice initialized.
+[2021.10.01-22.27.06:672][771]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.27.06:718][771]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.27.06
+[2021.10.01-22.27.08:193][771]LogWorld: Bringing up level for play took: 1.496521
+[2021.10.01-22.27.08:193][771]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2021.10.01-22.27.08:195][771]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.10.01-22.27.08:196][771]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [EpicCharacter_C]
+[2021.10.01-22.27.08:196][771]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type EpicCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2021.10.01-22.27.08:198][771]PIE: Server logged in
+[2021.10.01-22.27.08:199][771]PIE: Play in editor total start time 1.696 seconds.
+[2021.10.01-22.27.13:155][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.27.13:155][316]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.27.13:157][316]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.27.13:162][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.27.13:170][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-22.27.13:176][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.27.13:227][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.27.13:231][316]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FD53A7EE80), frame # 924316
+[2021.10.01-22.27.13:231][316]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FD2FD8CA00), frame # 924316
+[2021.10.01-22.27.13:234][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.10.01-22.27.13:270][317]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2021.10.01-22.27.13:302][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.10.01-22.27.17:385][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIslaind_L7)
+[2021.10.01-22.27.17:983][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIslaind_L7)
+[2021.10.01-22.27.28:349][537]Cmd: TRANSACTION UNDO
+[2021.10.01-22.27.28:349][537]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.01-22.27.28:549][540]Cmd: TRANSACTION UNDO
+[2021.10.01-22.27.28:549][540]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.01-22.27.28:780][542]Cmd: TRANSACTION UNDO
+[2021.10.01-22.27.28:780][542]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.27.28:883][543]Cmd: TRANSACTION UNDO
+[2021.10.01-22.27.28:883][543]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.01-22.27.46:110][ 97]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.27.46:878][159]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.27.47:814][236]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-22.27.47:821][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-22.27.47:821][236]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 2:27:47 PM)
+[2021.10.01-22.27.47:854][236]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.27.47:907][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052361s)
+[2021.10.01-22.27.47:907][236]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.27.47:907][236]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FD589C7200), frame # 927236
+[2021.10.01-22.27.47:907][236]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FD53A7CF40), frame # 927236
+[2021.10.01-22.27.47:908][236]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2021.10.01-22.27.47:908][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.053712s)
+[2021.10.01-22.27.47:946][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.10.01-22.27.47:951][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-22.27.47:951][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-22.27.47:951][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-22.27.47:951][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-22.27.47:951][236]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-22.27.47:951][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-22.27.47:951][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-22.27.47:951][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-22.27.47:951][236]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-22.27.47:951][236]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-22.27.47:959][236]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-22.27.47:959][236]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-22.27.47:978][236]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-22.27.47:979][236]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-22.27.47:979][236]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-22.27.47:979][236]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-22.27.47:979][236]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-22.27.47:991][236]LogInit: FAudioDevice initialized.
+[2021.10.01-22.27.47:999][236]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.27.48:043][236]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.27.48
+[2021.10.01-22.27.49:501][236]LogWorld: Bringing up level for play took: 1.478421
+[2021.10.01-22.27.49:501][236]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2021.10.01-22.27.49:507][236]PIE: Server logged in
+[2021.10.01-22.27.49:508][236]PIE: Play in editor total start time 1.687 seconds.
+[2021.10.01-22.27.52:785][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.27.52:785][506]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.27.52:787][506]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.27.52:791][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.27.52:799][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-22.27.52:805][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.27.52:857][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.27.52:860][506]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FD53A7CF40), frame # 927506
+[2021.10.01-22.27.52:860][506]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FD589C7200), frame # 927506
+[2021.10.01-22.27.52:865][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.10.01-22.27.52:899][507]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2021.10.01-22.27.52:931][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.10.01-22.27.58:263][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIslaind_L7)
+[2021.10.01-22.27.59:035][989]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.10.01-22.28.01:504][196]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.28.07:496][675]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.28.12:879][ 86]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.28.16:077][355]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.28.17:896][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kit_Wall_Straight138)
+[2021.10.01-22.28.23:487][983]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.28.26:710][256]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.28.29:318][478]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.28.33:231][742]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.28.35:458][932]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-22.28.35:465][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-22.28.35:465][932]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 2:28:35 PM)
+[2021.10.01-22.28.35:494][932]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.28.35:551][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056220s)
+[2021.10.01-22.28.35:552][932]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.28.35:552][932]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FD90342200), frame # 930932
+[2021.10.01-22.28.35:552][932]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FC3AD60680), frame # 930932
+[2021.10.01-22.28.35:552][932]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2021.10.01-22.28.35:552][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.057562s)
+[2021.10.01-22.28.35:587][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.10.01-22.28.35:592][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-22.28.35:592][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-22.28.35:592][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-22.28.35:592][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-22.28.35:592][932]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-22.28.35:592][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-22.28.35:592][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-22.28.35:592][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-22.28.35:593][932]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-22.28.35:593][932]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-22.28.35:601][932]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-22.28.35:601][932]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-22.28.35:619][932]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-22.28.35:619][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-22.28.35:619][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-22.28.35:619][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-22.28.35:619][932]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-22.28.35:634][932]LogInit: FAudioDevice initialized.
+[2021.10.01-22.28.35:640][932]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.28.35:684][932]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.28.35
+[2021.10.01-22.28.37:132][932]LogWorld: Bringing up level for play took: 1.468256
+[2021.10.01-22.28.37:132][932]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2021.10.01-22.28.37:137][932]PIE: Server logged in
+[2021.10.01-22.28.37:138][932]PIE: Play in editor total start time 1.674 seconds.
+[2021.10.01-22.28.39:935][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.28.39:935][165]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.28.39:937][165]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.28.39:941][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.28.39:951][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-22.28.39:956][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.28.40:008][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.28.40:011][165]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FC3AD60680), frame # 931165
+[2021.10.01-22.28.40:011][165]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FD90342200), frame # 931165
+[2021.10.01-22.28.40:015][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.10.01-22.28.40:050][166]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2021.10.01-22.28.40:084][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.10.01-22.28.52:782][322]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.28.54:410][452]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.28.58:616][738]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.29.02:117][979]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.29.02:973][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-22.29.02:980][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-22.29.02:980][ 47]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 2:29:02 PM)
+[2021.10.01-22.29.03:014][ 47]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.29.03:069][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054244s)
+[2021.10.01-22.29.03:070][ 47]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.29.03:070][ 47]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FD580F9800), frame # 933047
+[2021.10.01-22.29.03:070][ 47]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FC3B7C3380), frame # 933047
+[2021.10.01-22.29.03:070][ 47]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2021.10.01-22.29.03:070][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.055705s)
+[2021.10.01-22.29.03:103][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.10.01-22.29.03:108][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-22.29.03:108][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-22.29.03:108][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-22.29.03:108][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-22.29.03:108][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-22.29.03:108][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-22.29.03:108][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-22.29.03:108][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-22.29.03:109][ 47]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-22.29.03:109][ 47]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-22.29.03:117][ 47]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-22.29.03:117][ 47]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-22.29.03:135][ 47]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-22.29.03:136][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-22.29.03:136][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-22.29.03:136][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-22.29.03:136][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-22.29.03:148][ 47]LogInit: FAudioDevice initialized.
+[2021.10.01-22.29.03:157][ 47]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.29.03:204][ 47]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.29.03
+[2021.10.01-22.29.04:676][ 47]LogWorld: Bringing up level for play took: 1.494511
+[2021.10.01-22.29.04:677][ 47]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2021.10.01-22.29.04:681][ 47]PIE: Server logged in
+[2021.10.01-22.29.04:681][ 47]PIE: Play in editor total start time 1.702 seconds.
+[2021.10.01-22.29.10:105][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.29.10:105][538]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.29.10:107][538]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.29.10:112][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.29.10:120][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-22.29.10:126][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.29.10:178][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.29.10:182][538]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FC3B7C3380), frame # 933538
+[2021.10.01-22.29.10:182][538]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FD580F9800), frame # 933538
+[2021.10.01-22.29.10:185][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.10.01-22.29.10:218][539]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2021.10.01-22.29.10:252][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.10.01-22.29.12:470][756]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.29.12:756][763]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.29.13:879][848]LogEditorTransaction: Undo Move Actors
+[2021.10.01-22.29.59:023][455]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.01-22.30.05:579][939]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.01-22.30.07:979][127]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-22.30.07:986][127]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.01-22.30.07:987][127]LogPlayLevel: [PlayLevel] Compiling W_gameCompletion before play...
+[2021.10.01-22.30.08:123][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.10.01-22.30.08:127][127]LogPlayLevel: PlayLevel: Blueprint regeneration took 140 ms (1 blueprints)
+[2021.10.01-22.30.08:127][127]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 2:30:08 PM)
+[2021.10.01-22.30.08:164][127]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.30.08:218][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053965s)
+[2021.10.01-22.30.08:219][127]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.30.08:219][127]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FD3C5DFE00), frame # 938127
+[2021.10.01-22.30.08:219][127]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FD8ED134C0), frame # 938127
+[2021.10.01-22.30.08:220][127]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2021.10.01-22.30.08:220][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.055487s)
+[2021.10.01-22.30.08:255][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.10.01-22.30.08:256][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-22.30.08:256][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-22.30.08:256][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-22.30.08:256][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-22.30.08:256][127]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-22.30.08:256][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-22.30.08:256][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-22.30.08:256][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-22.30.08:256][127]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-22.30.08:256][127]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-22.30.08:264][127]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-22.30.08:265][127]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-22.30.08:284][127]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-22.30.08:284][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-22.30.08:284][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-22.30.08:284][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-22.30.08:285][127]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-22.30.08:285][127]LogInit: FAudioDevice initialized.
+[2021.10.01-22.30.08:304][127]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.30.08:350][127]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.30.08
+[2021.10.01-22.30.09:815][127]LogWorld: Bringing up level for play took: 1.486921
+[2021.10.01-22.30.09:815][127]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2021.10.01-22.30.09:820][127]PIE: Server logged in
+[2021.10.01-22.30.09:821][127]PIE: Play in editor total start time 1.836 seconds.
+[2021.10.01-22.30.12:915][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.30.12:915][357]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.30.12:916][357]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.30.12:921][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.30.12:929][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-22.30.12:934][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.30.12:969][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.30.12:990][357]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FD8ED134C0), frame # 938357
+[2021.10.01-22.30.12:990][357]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FD3C5DFE00), frame # 938357
+[2021.10.01-22.30.12:993][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.10.01-22.30.13:031][358]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2021.10.01-22.30.13:067][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.10.01-22.30.24:449][234]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/W_gameCompletionD0D559784B001F3A2BFC249682CFBD63.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset'
+[2021.10.01-22.30.24:461][234]AssetCheck: New page: Asset Save: W_gameCompletion
+[2021.10.01-22.30.24:461][234]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.01-22.30.25:300][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_S51)
+[2021.10.01-22.30.25:946][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cloud_B22)
+[2021.10.01-22.30.32:999][925]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.30.35:610][146]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-22.30.40:631][523]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.30.43:638][735]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.30.45:364][880]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-22.30.47:089][  6]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-22.30.47:096][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-22.30.47:096][  6]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 2:30:47 PM)
+[2021.10.01-22.30.47:096][  6]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.30.47:151][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054439s)
+[2021.10.01-22.30.47:152][  6]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.30.47:152][  6]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FD38129600), frame # 941006
+[2021.10.01-22.30.47:152][  6]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FD8ED13740), frame # 941006
+[2021.10.01-22.30.47:152][  6]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2021.10.01-22.30.47:152][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.055726s)
+[2021.10.01-22.30.47:186][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.10.01-22.30.47:191][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-22.30.47:191][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-22.30.47:191][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-22.30.47:191][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-22.30.47:191][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-22.30.47:191][  6]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-22.30.47:191][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-22.30.47:191][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-22.30.47:191][  6]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-22.30.47:191][  6]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-22.30.47:199][  6]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-22.30.47:199][  6]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-22.30.47:218][  6]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-22.30.47:218][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-22.30.47:218][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-22.30.47:218][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-22.30.47:219][  6]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-22.30.47:232][  6]LogInit: FAudioDevice initialized.
+[2021.10.01-22.30.47:242][  6]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.30.47:287][  6]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.30.47
+[2021.10.01-22.30.48:733][  6]LogWorld: Bringing up level for play took: 1.466161
+[2021.10.01-22.30.48:733][  6]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2021.10.01-22.30.48:738][  6]PIE: Server logged in
+[2021.10.01-22.30.48:739][  6]PIE: Play in editor total start time 1.643 seconds.
+[2021.10.01-22.30.55:125][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.30.55:125][648]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.30.55:127][648]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.30.55:132][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.30.55:141][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-22.30.55:147][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.30.55:201][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.30.55:204][648]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FD8ED13740), frame # 941648
+[2021.10.01-22.30.55:204][648]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FD38129600), frame # 941648
+[2021.10.01-22.30.55:208][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.10.01-22.30.55:241][649]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2021.10.01-22.30.55:272][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.10.01-22.31.01:353][121]LogEditorTransaction: Undo Move Widget
+[2021.10.01-22.31.33:727][462]BlueprintLog: New page: Compile W_gameCompletion
+[2021.10.01-22.31.33:780][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.10.01-22.31.42:758][166]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/W_gameCompletion92C2358E462AB384B11295BE8535C619.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset'
+[2021.10.01-22.31.42:770][166]AssetCheck: New page: Asset Save: W_gameCompletion
+[2021.10.01-22.31.42:770][166]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.01-22.32.38:555][967]BlueprintLog: New page: Compile W_gameCompletion
+[2021.10.01-22.32.38:609][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.10.01-22.32.43:074][320]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/W_gameCompletion45EE195E40F314147D2B1C81124BA3EC.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset'
+[2021.10.01-22.32.43:086][320]AssetCheck: New page: Asset Save: W_gameCompletion
+[2021.10.01-22.32.43:086][320]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.01-22.32.45:793][525]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-22.32.45:800][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-22.32.45:800][525]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 2:32:45 PM)
+[2021.10.01-22.32.45:800][525]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.32.45:854][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053222s)
+[2021.10.01-22.32.45:855][525]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.32.45:855][525]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FD53BA9200), frame # 950525
+[2021.10.01-22.32.45:855][525]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FC57B66840), frame # 950525
+[2021.10.01-22.32.45:855][525]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2021.10.01-22.32.45:855][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.054593s)
+[2021.10.01-22.32.45:890][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.10.01-22.32.45:894][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-22.32.45:894][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-22.32.45:894][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-22.32.45:894][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-22.32.45:894][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-22.32.45:894][525]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-22.32.45:894][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-22.32.45:894][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-22.32.45:894][525]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-22.32.45:894][525]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-22.32.45:903][525]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-22.32.45:903][525]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-22.32.45:923][525]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-22.32.45:924][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-22.32.45:924][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-22.32.45:924][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-22.32.45:924][525]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-22.32.45:937][525]LogInit: FAudioDevice initialized.
+[2021.10.01-22.32.45:948][525]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.32.45:993][525]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.32.45
+[2021.10.01-22.32.47:454][525]LogWorld: Bringing up level for play took: 1.482834
+[2021.10.01-22.32.47:455][525]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2021.10.01-22.32.47:460][525]PIE: Server logged in
+[2021.10.01-22.32.47:461][525]PIE: Play in editor total start time 1.661 seconds.
+[2021.10.01-22.32.51:186][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.32.51:186][855]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.32.51:187][855]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.32.51:192][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.32.51:211][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-22.32.51:217][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.32.51:269][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.32.51:272][855]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FC57B66840), frame # 950855
+[2021.10.01-22.32.51:272][855]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FD53BA9200), frame # 950855
+[2021.10.01-22.32.51:276][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.10.01-22.32.51:312][856]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2021.10.01-22.32.51:345][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.10.01-22.33.18:179][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.10.01-22.33.18:432][565]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_HOC_world_Auto5B30E93274F182E66C4AF43A273448F36.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/Hour_of_Code/Maps/Level_HOC_world_Auto5.umap'
+[2021.10.01-22.33.18:434][565]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Hour_of_Code/Maps/Level_HOC_world' took 0.291
+[2021.10.01-22.33.18:434][565]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.291
+[2021.10.01-22.33.18:434][565]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AddedContent/Sequences/BouncingIsland] ([1] browsable assets)...
+[2021.10.01-22.33.18:434][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/AddedContent/Sequences/BouncingIsland]
+[2021.10.01-22.33.18:439][565]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/BouncingIsland_Auto5023722F146739667AABF4ABC6041796A.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/AddedContent/Sequences/BouncingIsland_Auto5.uasset'
+[2021.10.01-22.33.18:439][565]LogFileHelpers: Auto-saving content packages took 0.005
+[2021.10.01-22.35.18:836][890]BlueprintLog: New page: Compile W_gameCompletion
+[2021.10.01-22.35.18:892][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.10.01-22.35.24:493][338]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/W_gameCompletion752683F1434A5E4C0191F0BDDE04D1DE.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset'
+[2021.10.01-22.35.24:504][338]AssetCheck: New page: Asset Save: W_gameCompletion
+[2021.10.01-22.35.24:504][338]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.01-22.35.28:044][675]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-22.35.28:054][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-22.35.28:054][675]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 2:35:28 PM)
+[2021.10.01-22.35.28:074][675]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.35.28:126][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051778s)
+[2021.10.01-22.35.28:127][675]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.35.28:127][675]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FD8BA22800), frame # 961675
+[2021.10.01-22.35.28:127][675]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FD25EBF600), frame # 961675
+[2021.10.01-22.35.28:127][675]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2021.10.01-22.35.28:127][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.053169s)
+[2021.10.01-22.35.28:165][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.10.01-22.35.28:169][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-22.35.28:169][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-22.35.28:169][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-22.35.28:169][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-22.35.28:169][675]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-22.35.28:169][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-22.35.28:169][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-22.35.28:169][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-22.35.28:170][675]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-22.35.28:170][675]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-22.35.28:178][675]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-22.35.28:178][675]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-22.35.28:198][675]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-22.35.28:198][675]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-22.35.28:198][675]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-22.35.28:198][675]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-22.35.28:198][675]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-22.35.28:211][675]LogInit: FAudioDevice initialized.
+[2021.10.01-22.35.28:220][675]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.35.28:265][675]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.35.28
+[2021.10.01-22.35.29:722][675]LogWorld: Bringing up level for play took: 1.477595
+[2021.10.01-22.35.29:722][675]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2021.10.01-22.35.29:727][675]PIE: Server logged in
+[2021.10.01-22.35.29:728][675]PIE: Play in editor total start time 1.675 seconds.
+[2021.10.01-22.35.35:465][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.35.35:465][314]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.35.35:467][314]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.35.35:472][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.35.35:479][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-22.35.35:485][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.35.35:532][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.35.35:543][314]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FD25EBF600), frame # 962314
+[2021.10.01-22.35.35:543][314]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FD8BA22800), frame # 962314
+[2021.10.01-22.35.35:547][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.10.01-22.35.35:581][315]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2021.10.01-22.35.35:616][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.10.01-22.36.15:887][649]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/W_gameCompletion57B64A09414D9420845890B6C8ED63DB.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset'
+[2021.10.01-22.36.15:899][649]AssetCheck: New page: Asset Save: W_gameCompletion
+[2021.10.01-22.36.15:899][649]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.01-22.36.17:054][744]BlueprintLog: New page: Compile W_gameCompletion
+[2021.10.01-22.36.17:106][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.10.01-22.36.21:174][100]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-22.36.21:181][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-22.36.21:181][100]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 2:36:21 PM)
+[2021.10.01-22.36.21:214][100]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.36.21:267][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052728s)
+[2021.10.01-22.36.21:268][100]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.36.21:268][100]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FD9628DA00), frame # 966100
+[2021.10.01-22.36.21:268][100]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FD8FCC8A40), frame # 966100
+[2021.10.01-22.36.21:268][100]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2021.10.01-22.36.21:268][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.054032s)
+[2021.10.01-22.36.21:304][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.10.01-22.36.21:307][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-22.36.21:307][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-22.36.21:307][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-22.36.21:307][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-22.36.21:307][100]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-22.36.21:307][100]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-22.36.21:307][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-22.36.21:307][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-22.36.21:308][100]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-22.36.21:308][100]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-22.36.21:316][100]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-22.36.21:316][100]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-22.36.21:335][100]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-22.36.21:335][100]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-22.36.21:335][100]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-22.36.21:335][100]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-22.36.21:335][100]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-22.36.21:348][100]LogInit: FAudioDevice initialized.
+[2021.10.01-22.36.21:355][100]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.36.21:399][100]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.36.21
+[2021.10.01-22.36.22:847][100]LogWorld: Bringing up level for play took: 1.468757
+[2021.10.01-22.36.22:847][100]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2021.10.01-22.36.22:852][100]PIE: Server logged in
+[2021.10.01-22.36.22:852][100]PIE: Play in editor total start time 1.672 seconds.
+[2021.10.01-22.36.26:229][460]LogNet: Browse: /Game/Hour_of_Code/Maps/Level_HOC_world
+[2021.10.01-22.36.26:230][460]LogLoad: LoadMap: /Game/Hour_of_Code/Maps/Level_HOC_world
+[2021.10.01-22.36.26:230][460]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.36.26:230][460]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2021.10.01-22.36.26:230][460]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	ThirdPersonGameMode_C /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world:PersistentLevel.ThirdPersonGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode:0098
+[2021.10.01-22.36.26:230][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  ThirdPersonGameMode Function:  Execute Ubergraph Third Person Game Mode Graph:  EventGraph Node:  Assign On Destroyed
+[2021.10.01-22.36.26:232][460]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.36.26:237][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.36.26:237][460]LogWorld: UWorld::CleanupWorld for TeacherMarketplace_LIGHTING_01, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.36.26:237][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.36.26:276][460]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FD8FCC8A40), frame # 966460
+[2021.10.01-22.36.26:276][460]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FD9628DA00), frame # 966460
+[2021.10.01-22.36.26:280][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.10.01-22.36.26:284][460]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.36.26:333][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050518s)
+[2021.10.01-22.36.26:334][460]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-22.36.26:334][460]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FD36EDC400), frame # 966460
+[2021.10.01-22.36.26:334][460]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FD898A42C0), frame # 966460
+[2021.10.01-22.36.26:335][460]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2021.10.01-22.36.26:335][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.051908s)
+[2021.10.01-22.36.26:335][460]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-22.36.26:370][460]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-18.36.26
+[2021.10.01-22.36.27:842][460]LogWorld: Bringing up level for play took: 1.483880
+[2021.10.01-22.36.27:848][460]LogLoad: Took 1.618114 seconds to LoadMap(/Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world)
+[2021.10.01-22.36.53:755][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.36.53:755][143]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-22.36.53:757][143]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.36.53:762][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.36.53:770][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-22.36.53:776][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.36.53:826][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-22.36.53:830][143]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FD898A42C0), frame # 969143
+[2021.10.01-22.36.53:830][143]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FD36EDC400), frame # 969143
+[2021.10.01-22.36.53:834][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.10.01-22.36.53:963][144]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2021.10.01-22.36.53:997][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.10.01-22.37.38:426][608]LogSlate: Window 'Message Log' being destroyed
+[2021.10.01-22.37.38:430][608]LogSlate: Window 'Message Log' being destroyed
