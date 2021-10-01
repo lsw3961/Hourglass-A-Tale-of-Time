@@ -1228,3 +1228,713 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.01-18.56.40:727][ 76]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
 [2021.10.01-18.56.40:762][ 78]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
 [2021.10.01-18.56.40:762][ 78]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.10.01-18.57.29:343][617]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-18.57.29:349][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-18.57.29:349][617]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 10:57:29 AM)
+[2021.10.01-18.57.29:386][617]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-18.57.29:433][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046997s)
+[2021.10.01-18.57.29:434][617]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-18.57.29:434][617]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FB914ABE00), frame # 5617
+[2021.10.01-18.57.29:434][617]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FB9CCA0680), frame # 5617
+[2021.10.01-18.57.29:435][617]LogPlayLevel: PIE: World Init took: (0.001369s)
+[2021.10.01-18.57.29:435][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.048555s)
+[2021.10.01-18.57.29:451][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.10.01-18.57.29:454][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-18.57.29:454][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-18.57.29:454][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-18.57.29:454][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-18.57.29:454][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-18.57.29:454][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-18.57.29:454][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-18.57.29:454][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-18.57.29:454][617]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-18.57.29:454][617]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-18.57.29:463][617]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-18.57.29:463][617]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-18.57.29:483][617]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-18.57.29:484][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-18.57.29:484][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-18.57.29:484][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-18.57.29:484][617]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-18.57.29:496][617]LogInit: FAudioDevice initialized.
+[2021.10.01-18.57.29:505][617]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-18.57.29:543][617]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-14.57.29
+[2021.10.01-18.57.30:984][617]LogWorld: Bringing up level for play took: 1.457719
+[2021.10.01-18.57.30:984][617]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.10.01-18.57.30:989][617]PIE: Server logged in
+[2021.10.01-18.57.30:990][617]PIE: Play in editor total start time 1.641 seconds.
+[2021.10.01-18.57.44:136][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-18.57.44:136][187]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-18.57.44:138][187]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-18.57.44:141][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-18.57.44:147][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-18.57.44:150][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-18.57.44:169][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-18.57.44:185][187]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FB9CCA0680), frame # 7187
+[2021.10.01-18.57.44:185][187]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FB914ABE00), frame # 7187
+[2021.10.01-18.57.44:188][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.10.01-18.57.44:210][188]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.10.01-18.57.44:228][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.01-18.57.58:028][670]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:6649).
+[2021.10.01-18.58.00:751][989]LogRenderer: Reallocating scene render targets to support 1616x812 Format 10 NumSamples 1 (Frame:6970).
+[2021.10.01-18.58.00:796][990]LogRenderer: Reallocating scene render targets to support 1616x820 Format 10 NumSamples 1 (Frame:6972).
+[2021.10.01-18.58.00:839][991]LogRenderer: Reallocating scene render targets to support 1616x848 Format 10 NumSamples 1 (Frame:6974).
+[2021.10.01-18.58.00:882][992]LogRenderer: Reallocating scene render targets to support 1616x868 Format 10 NumSamples 1 (Frame:6976).
+[2021.10.01-18.58.00:924][993]LogRenderer: Reallocating scene render targets to support 1616x876 Format 10 NumSamples 1 (Frame:6978).
+[2021.10.01-18.58.00:970][994]LogRenderer: Reallocating scene render targets to support 1616x880 Format 10 NumSamples 1 (Frame:6980).
+[2021.10.01-18.58.01:011][995]LogRenderer: Reallocating scene render targets to support 1616x884 Format 10 NumSamples 1 (Frame:6982).
+[2021.10.01-18.58.01:055][996]LogRenderer: Reallocating scene render targets to support 1616x888 Format 10 NumSamples 1 (Frame:6984).
+[2021.10.01-18.58.01:172][  3]LogRenderer: Reallocating scene render targets to support 1616x892 Format 10 NumSamples 1 (Frame:6993).
+[2021.10.01-18.58.01:214][  4]LogRenderer: Reallocating scene render targets to support 1616x904 Format 10 NumSamples 1 (Frame:6995).
+[2021.10.01-18.58.01:257][  5]LogRenderer: Reallocating scene render targets to support 1616x916 Format 10 NumSamples 1 (Frame:6997).
+[2021.10.01-18.58.01:302][  6]LogRenderer: Reallocating scene render targets to support 1616x928 Format 10 NumSamples 1 (Frame:6999).
+[2021.10.01-18.58.01:348][  7]LogRenderer: Reallocating scene render targets to support 1616x944 Format 10 NumSamples 1 (Frame:7001).
+[2021.10.01-18.58.01:391][  8]LogRenderer: Reallocating scene render targets to support 1616x952 Format 10 NumSamples 1 (Frame:7003).
+[2021.10.01-18.58.01:437][  9]LogRenderer: Reallocating scene render targets to support 1616x960 Format 10 NumSamples 1 (Frame:7005).
+[2021.10.01-18.58.04:045][316]LogRenderer: Reallocating scene render targets to support 1620x960 Format 10 NumSamples 1 (Frame:7314).
+[2021.10.01-18.58.04:091][317]LogRenderer: Reallocating scene render targets to support 1628x960 Format 10 NumSamples 1 (Frame:7316).
+[2021.10.01-18.58.04:136][318]LogRenderer: Reallocating scene render targets to support 1636x960 Format 10 NumSamples 1 (Frame:7318).
+[2021.10.01-18.58.04:181][319]LogRenderer: Reallocating scene render targets to support 1648x960 Format 10 NumSamples 1 (Frame:7320).
+[2021.10.01-18.58.04:226][320]LogRenderer: Reallocating scene render targets to support 1660x960 Format 10 NumSamples 1 (Frame:7322).
+[2021.10.01-18.58.04:272][321]LogRenderer: Reallocating scene render targets to support 1668x960 Format 10 NumSamples 1 (Frame:7324).
+[2021.10.01-18.58.04:316][322]LogRenderer: Reallocating scene render targets to support 1684x960 Format 10 NumSamples 1 (Frame:7326).
+[2021.10.01-18.58.04:359][323]LogRenderer: Reallocating scene render targets to support 1700x960 Format 10 NumSamples 1 (Frame:7328).
+[2021.10.01-18.58.04:404][324]LogRenderer: Reallocating scene render targets to support 1708x960 Format 10 NumSamples 1 (Frame:7330).
+[2021.10.01-18.58.04:450][325]LogRenderer: Reallocating scene render targets to support 1712x960 Format 10 NumSamples 1 (Frame:7332).
+[2021.10.01-18.58.04:492][326]LogRenderer: Reallocating scene render targets to support 1720x960 Format 10 NumSamples 1 (Frame:7334).
+[2021.10.01-18.58.04:535][327]LogRenderer: Reallocating scene render targets to support 1724x960 Format 10 NumSamples 1 (Frame:7336).
+[2021.10.01-18.58.06:438][542]LogRenderer: Reallocating scene render targets to support 1732x960 Format 10 NumSamples 1 (Frame:7554).
+[2021.10.01-18.58.06:484][543]LogRenderer: Reallocating scene render targets to support 1748x960 Format 10 NumSamples 1 (Frame:7556).
+[2021.10.01-18.58.06:532][544]LogRenderer: Reallocating scene render targets to support 1772x960 Format 10 NumSamples 1 (Frame:7558).
+[2021.10.01-18.58.06:578][545]LogRenderer: Reallocating scene render targets to support 1780x960 Format 10 NumSamples 1 (Frame:7560).
+[2021.10.01-18.58.06:625][546]LogRenderer: Reallocating scene render targets to support 1788x960 Format 10 NumSamples 1 (Frame:7562).
+[2021.10.01-18.58.06:671][547]LogRenderer: Reallocating scene render targets to support 1804x960 Format 10 NumSamples 1 (Frame:7564).
+[2021.10.01-18.58.06:718][548]LogRenderer: Reallocating scene render targets to support 1820x960 Format 10 NumSamples 1 (Frame:7566).
+[2021.10.01-18.58.06:767][549]LogRenderer: Reallocating scene render targets to support 1836x960 Format 10 NumSamples 1 (Frame:7568).
+[2021.10.01-18.58.06:813][550]LogRenderer: Reallocating scene render targets to support 1844x960 Format 10 NumSamples 1 (Frame:7570).
+[2021.10.01-18.58.06:870][553]LogRenderer: Reallocating scene render targets to support 1848x960 Format 10 NumSamples 1 (Frame:7574).
+[2021.10.01-19.00.05:888][704]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.10.01-19.00.08:567][  8]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-19.00.10:113][186]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-19.00.12:114][413]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-19.00.13:751][596]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-19.00.15:964][849]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.01-19.05.18:768][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.10.01-19.05.19:006][713]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_HOC_world_Auto15F80269B4093E5FCFBDFB09762B25746.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/Hour_of_Code/Maps/Level_HOC_world_Auto1.umap'
+[2021.10.01-19.05.19:008][713]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Hour_of_Code/Maps/Level_HOC_world' took 0.255
+[2021.10.01-19.05.19:008][713]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.255
+[2021.10.01-19.07.56:724][ 64]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost
+[2021.10.01-19.07.56:916][ 64]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2021.10.01-19.07.57:653][ 64]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.01-19.07.57:720][ 65]LogSlate: Took 0.000649 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.01-19.08.27:820][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-19.08.27:820][360]PIE: New page: SIE session: Level_HOC_world (Oct 1, 2021, 11:08:27 AM)
+[2021.10.01-19.08.27:858][360]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-19.08.27:903][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044876s)
+[2021.10.01-19.08.27:904][360]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-19.08.27:904][360]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FC0C658C00), frame # 30360
+[2021.10.01-19.08.27:904][360]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FC0F8DBD80), frame # 30360
+[2021.10.01-19.08.27:904][360]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2021.10.01-19.08.27:904][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.046311s)
+[2021.10.01-19.08.27:931][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.10.01-19.08.27:933][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-19.08.27:933][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-19.08.27:933][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-19.08.27:933][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-19.08.27:933][360]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-19.08.27:933][360]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-19.08.27:933][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-19.08.27:933][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-19.08.27:934][360]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-19.08.27:934][360]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-19.08.27:942][360]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-19.08.27:942][360]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-19.08.27:963][360]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-19.08.27:963][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-19.08.27:963][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-19.08.27:963][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-19.08.27:964][360]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-19.08.27:975][360]LogInit: FAudioDevice initialized.
+[2021.10.01-19.08.27:981][360]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-19.08.28:019][360]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-15.08.28
+[2021.10.01-19.08.29:467][360]LogWorld: Bringing up level for play took: 1.464721
+[2021.10.01-19.08.29:467][360]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.10.01-19.08.29:471][360]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	ThirdPersonGameMode_C /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world:PersistentLevel.ThirdPersonGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode:0522
+[2021.10.01-19.08.29:471][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  ThirdPersonGameMode Function:  Execute Ubergraph Third Person Game Mode Graph:  EventGraph Node:  Assign On Destroyed
+[2021.10.01-19.08.29:471][360]PIE: Server logged in
+[2021.10.01-19.08.29:472][360]PIE: Play in editor total start time 1.66 seconds.
+[2021.10.01-19.08.40:449][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-19.08.40:449][448]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-19.08.40:450][448]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-19.08.40:454][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-19.08.40:466][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-19.08.40:470][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-19.08.40:508][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-19.08.40:517][448]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FC0C658C00), frame # 31448
+[2021.10.01-19.08.40:517][448]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FC0F8DBD80), frame # 31448
+[2021.10.01-19.08.40:519][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.10.01-19.08.40:626][449]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.10.01-19.08.40:650][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.10.01-19.08.48:719][127]LogSlate: Window 'Message Log' being destroyed
+[2021.10.01-19.08.48:721][127]LogSlate: Window 'Message Log' being destroyed
+[2021.10.01-19.10.00:331][742]LogTemp: Repeating last play command: Simulate
+[2021.10.01-19.10.00:337][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-19.10.00:337][742]PIE: New page: SIE session: Level_HOC_world (Oct 1, 2021, 11:10:00 AM)
+[2021.10.01-19.10.00:337][742]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-19.10.00:384][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046774s)
+[2021.10.01-19.10.00:385][742]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-19.10.00:385][742]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FC08FBCC00), frame # 37742
+[2021.10.01-19.10.00:385][742]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FC62C52200), frame # 37742
+[2021.10.01-19.10.00:385][742]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2021.10.01-19.10.00:385][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.048060s)
+[2021.10.01-19.10.00:409][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.10.01-19.10.00:411][742]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-19.10.00:411][742]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-19.10.00:411][742]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-19.10.00:411][742]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-19.10.00:411][742]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-19.10.00:411][742]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-19.10.00:411][742]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-19.10.00:411][742]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-19.10.00:411][742]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-19.10.00:411][742]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-19.10.00:419][742]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-19.10.00:419][742]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-19.10.00:439][742]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-19.10.00:440][742]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-19.10.00:440][742]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-19.10.00:440][742]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-19.10.00:440][742]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-19.10.00:452][742]LogInit: FAudioDevice initialized.
+[2021.10.01-19.10.00:457][742]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-19.10.00:496][742]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-15.10.00
+[2021.10.01-19.10.01:957][742]LogWorld: Bringing up level for play took: 1.478792
+[2021.10.01-19.10.01:957][742]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.10.01-19.10.01:961][742]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	ThirdPersonGameMode_C /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world:PersistentLevel.ThirdPersonGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode:0522
+[2021.10.01-19.10.01:961][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  ThirdPersonGameMode Function:  Execute Ubergraph Third Person Game Mode Graph:  EventGraph Node:  Assign On Destroyed
+[2021.10.01-19.10.01:961][742]PIE: Server logged in
+[2021.10.01-19.10.01:962][742]PIE: Play in editor total start time 1.625 seconds.
+[2021.10.01-19.10.03:059][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-19.10.03:059][827]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-19.10.03:060][827]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-19.10.03:064][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-19.10.03:078][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-19.10.03:082][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-19.10.03:103][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-19.10.03:122][827]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FC62C52200), frame # 37827
+[2021.10.01-19.10.03:122][827]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FC08FBCC00), frame # 37827
+[2021.10.01-19.10.03:125][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.10.01-19.10.03:234][828]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.10.01-19.10.03:257][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.10.01-19.10.29:387][295]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2021.10.01-19.11.03:625][217]LogTemp: Repeating last play command: Simulate
+[2021.10.01-19.11.03:630][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-19.11.03:630][217]PIE: New page: SIE session: Level_HOC_world (Oct 1, 2021, 11:11:03 AM)
+[2021.10.01-19.11.03:630][217]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-19.11.03:675][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044488s)
+[2021.10.01-19.11.03:676][217]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-19.11.03:676][217]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FC5855A200), frame # 43217
+[2021.10.01-19.11.03:676][217]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FC55219D00), frame # 43217
+[2021.10.01-19.11.03:676][217]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2021.10.01-19.11.03:676][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.045812s)
+[2021.10.01-19.11.03:700][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.10.01-19.11.03:702][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-19.11.03:702][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-19.11.03:702][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-19.11.03:702][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-19.11.03:702][217]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-19.11.03:702][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-19.11.03:702][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-19.11.03:702][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-19.11.03:702][217]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-19.11.03:702][217]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-19.11.03:711][217]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-19.11.03:711][217]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-19.11.03:731][217]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-19.11.03:731][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-19.11.03:731][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-19.11.03:731][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-19.11.03:732][217]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-19.11.03:744][217]LogInit: FAudioDevice initialized.
+[2021.10.01-19.11.03:753][217]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-19.11.03:792][217]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-15.11.03
+[2021.10.01-19.11.05:247][217]LogWorld: Bringing up level for play took: 1.472321
+[2021.10.01-19.11.05:247][217]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.10.01-19.11.05:251][217]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	ThirdPersonGameMode_C /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world:PersistentLevel.ThirdPersonGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode:0522
+[2021.10.01-19.11.05:251][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  ThirdPersonGameMode Function:  Execute Ubergraph Third Person Game Mode Graph:  EventGraph Node:  Assign On Destroyed
+[2021.10.01-19.11.05:251][217]PIE: Server logged in
+[2021.10.01-19.11.05:252][217]PIE: Play in editor total start time 1.621 seconds.
+[2021.10.01-19.11.10:339][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-19.11.10:339][631]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-19.11.10:340][631]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-19.11.10:344][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-19.11.10:362][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-19.11.10:366][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-19.11.10:410][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-19.11.10:412][631]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FC55219D00), frame # 43631
+[2021.10.01-19.11.10:412][631]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FC5855A200), frame # 43631
+[2021.10.01-19.11.10:416][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.10.01-19.11.10:468][632]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.10.01-19.11.10:495][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.10.01-19.11.12:913][822]LogTemp: Repeating last play command: Simulate
+[2021.10.01-19.11.12:918][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-19.11.12:918][822]PIE: New page: SIE session: Level_HOC_world (Oct 1, 2021, 11:11:12 AM)
+[2021.10.01-19.11.12:918][822]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-19.11.12:963][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044448s)
+[2021.10.01-19.11.12:964][822]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-19.11.12:964][822]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FC635C1800), frame # 43822
+[2021.10.01-19.11.12:964][822]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FC09D01440), frame # 43822
+[2021.10.01-19.11.12:964][822]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2021.10.01-19.11.12:964][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.045651s)
+[2021.10.01-19.11.12:989][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.10.01-19.11.12:990][822]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-19.11.12:990][822]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-19.11.12:990][822]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-19.11.12:990][822]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-19.11.12:990][822]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-19.11.12:990][822]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-19.11.12:990][822]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-19.11.12:990][822]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-19.11.12:991][822]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-19.11.12:991][822]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-19.11.12:999][822]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-19.11.12:999][822]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-19.11.13:018][822]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-19.11.13:018][822]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-19.11.13:018][822]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-19.11.13:018][822]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-19.11.13:018][822]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-19.11.13:031][822]LogInit: FAudioDevice initialized.
+[2021.10.01-19.11.13:041][822]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-19.11.13:078][822]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-15.11.13
+[2021.10.01-19.11.14:525][822]LogWorld: Bringing up level for play took: 1.462661
+[2021.10.01-19.11.14:525][822]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.10.01-19.11.14:529][822]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	ThirdPersonGameMode_C /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world:PersistentLevel.ThirdPersonGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode:0522
+[2021.10.01-19.11.14:529][822]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  ThirdPersonGameMode Function:  Execute Ubergraph Third Person Game Mode Graph:  EventGraph Node:  Assign On Destroyed
+[2021.10.01-19.11.14:529][822]PIE: Server logged in
+[2021.10.01-19.11.14:530][822]PIE: Play in editor total start time 1.611 seconds.
+[2021.10.01-19.11.17:580][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-19.11.17:580][ 66]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-19.11.17:581][ 66]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-19.11.17:585][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-19.11.17:595][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-19.11.17:600][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-19.11.17:623][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-19.11.17:642][ 66]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FC09D01440), frame # 44066
+[2021.10.01-19.11.17:642][ 66]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FC635C1800), frame # 44066
+[2021.10.01-19.11.17:646][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.10.01-19.11.17:701][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.10.01-19.11.17:725][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.10.01-19.12.55:391][346]LogEditorTransaction: Undo Add Node
+[2021.10.01-19.13.59:708][122]LogEditorTransaction: Undo Move Node
+[2021.10.01-19.14.00:601][163]LogEditorTransaction: Undo Move Node
+[2021.10.01-19.14.01:221][211]LogEditorTransaction: Undo Add Node
+[2021.10.01-19.14.05:742][619]LogEditorTransaction: Undo Add Node
+[2021.10.01-19.15.56:670][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.10.01-19.15.56:896][ 33]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_HOC_world_Auto29060C1374F9AB9366EA1B7AED76F6BD7.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/Hour_of_Code/Maps/Level_HOC_world_Auto2.umap'
+[2021.10.01-19.15.56:897][ 33]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Hour_of_Code/Maps/Level_HOC_world' took 0.256
+[2021.10.01-19.15.56:897][ 33]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.256
+[2021.10.01-19.15.56:898][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2021.10.01-19.15.56:898][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2021.10.01-19.15.56:915][ 33]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/ThirdPersonGameMode_Auto2DE7F22EC49C2625D3787A68DE967E5CB.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto2.uasset'
+[2021.10.01-19.15.56:916][ 33]LogFileHelpers: Auto-saving content packages took 0.018
+[2021.10.01-19.16.27:702][790]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/ThirdPersonGameModeDEFF4D7B469560BB54AA1CB3ECB92AC1.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2021.10.01-19.16.27:718][790]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2021.10.01-19.16.27:719][790]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2021.10.01-19.16.32:472][176]LogTemp: Repeating last play command: Simulate
+[2021.10.01-19.16.32:478][176]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.01-19.16.32:490][176]LogPlayLevel: [PlayLevel] Compiling ThirdPersonGameMode before play...
+[2021.10.01-19.16.32:575][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.10.01-19.16.32:579][176]LogPlayLevel: PlayLevel: Blueprint regeneration took 100 ms (1 blueprints)
+[2021.10.01-19.16.32:579][176]PIE: New page: SIE session: Level_HOC_world (Oct 1, 2021, 11:16:32 AM)
+[2021.10.01-19.16.32:580][176]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-19.16.32:624][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044337s)
+[2021.10.01-19.16.32:625][176]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-19.16.32:625][176]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FC0FD33A00), frame # 63176
+[2021.10.01-19.16.32:625][176]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FC57CE2340), frame # 63176
+[2021.10.01-19.16.32:625][176]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2021.10.01-19.16.32:625][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.045621s)
+[2021.10.01-19.16.32:650][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.01-19.16.32:651][176]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-19.16.32:651][176]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-19.16.32:651][176]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-19.16.32:651][176]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-19.16.32:651][176]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-19.16.32:651][176]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-19.16.32:651][176]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-19.16.32:651][176]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-19.16.32:652][176]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-19.16.32:652][176]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-19.16.32:660][176]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-19.16.32:660][176]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-19.16.32:679][176]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-19.16.32:679][176]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-19.16.32:679][176]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-19.16.32:679][176]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-19.16.32:680][176]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-19.16.32:692][176]LogInit: FAudioDevice initialized.
+[2021.10.01-19.16.32:701][176]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-19.16.32:739][176]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-15.16.32
+[2021.10.01-19.16.34:195][176]LogWorld: Bringing up level for play took: 1.473117
+[2021.10.01-19.16.34:196][176]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.10.01-19.16.34:199][176]PIE: Server logged in
+[2021.10.01-19.16.34:200][176]PIE: Play in editor total start time 1.723 seconds.
+[2021.10.01-19.16.35:557][288]LogSlate: Window 'Message Log' being destroyed
+[2021.10.01-19.16.35:564][288]LogSlate: Window 'Message Log' being destroyed
+[2021.10.01-19.16.36:940][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-19.16.36:940][376]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-19.16.36:942][376]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-19.16.36:946][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-19.16.36:955][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-19.16.36:960][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-19.16.36:999][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-19.16.37:009][376]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FC0FD33A00), frame # 63376
+[2021.10.01-19.16.37:009][376]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FC57CE2340), frame # 63376
+[2021.10.01-19.16.37:011][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.01-19.16.37:036][377]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.10.01-19.16.37:062][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.10.01-19.18.21:833][196]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/ThirdPersonGameModeB9192AB84D71F05B24AE13B224D9DF55.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2021.10.01-19.18.21:850][196]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2021.10.01-19.18.21:851][196]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2021.10.01-19.20.36:412][423]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::GetPlayerCharacter' [Element not found.]
+[2021.10.01-19.21.06:070][326]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.10.01-19.25.54:901][423]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/Character.h 
+[2021.10.01-19.25.55:048][423]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/Character.h : 42
+[2021.10.01-19.25.55:048][423]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.10.01-19.25.55:052][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:052][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:053][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:053][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:053][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:053][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:053][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:053][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:053][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:053][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:053][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:053][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:053][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:053][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:053][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:053][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:053][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:054][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:055][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:056][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:057][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:058][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:059][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:059][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:059][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:059][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:059][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:059][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:059][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:059][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:059][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:061][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:062][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:062][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:065][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:068][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:068][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:068][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:068][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:068][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:068][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:068][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:071][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:071][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:099][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:101][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:114][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:122][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:122][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:124][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:124][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:124][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:124][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:124][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:124][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:127][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:128][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:128][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:133][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:133][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:133][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.25.55:133][423]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.01-19.26.01:493][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.10.01-19.26.01:723][743]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_HOC_world_Auto367D5FB1C4860481ACE17B4852C226B00.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/Hour_of_Code/Maps/Level_HOC_world_Auto3.umap'
+[2021.10.01-19.26.01:737][743]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_03_end_Auto379D48C2C47E398AD10D41BB5E8DF1F71.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/Hour_of_Code/Maps/Level_03_end_Auto3.umap'
+[2021.10.01-19.26.01:737][743]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Hour_of_Code/Maps/Level_HOC_world' took 0.270
+[2021.10.01-19.26.01:737][743]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.270
+[2021.10.01-19.26.01:737][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Hour_of_Code/Blueprints/BP_jumpBoost] ([1] browsable assets)...
+[2021.10.01-19.26.01:747][743]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost]
+[2021.10.01-19.26.01:747][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Blueprints/BP_jumpBoost]
+[2021.10.01-19.26.01:767][743]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/BP_jumpBoost_Auto30EFFE9CD4688623BA0571CA8E756B6C2.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/Hour_of_Code/Blueprints/BP_jumpBoost_Auto3.uasset'
+[2021.10.01-19.26.01:767][743]LogFileHelpers: Auto-saving content packages took 0.030
+[2021.10.01-19.31.38:604][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-19.31.38:604][373]PIE: New page: SIE session: Level_HOC_world (Oct 1, 2021, 11:31:38 AM)
+[2021.10.01-19.31.38:604][373]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-19.31.38:649][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044987s)
+[2021.10.01-19.31.38:650][373]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-19.31.38:650][373]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FC578DA400), frame # 131373
+[2021.10.01-19.31.38:650][373]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FB8550B880), frame # 131373
+[2021.10.01-19.31.38:651][373]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2021.10.01-19.31.38:651][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.046328s)
+[2021.10.01-19.31.38:678][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.10.01-19.31.38:683][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-19.31.38:683][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-19.31.38:683][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-19.31.38:683][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-19.31.38:683][373]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-19.31.38:683][373]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-19.31.38:683][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-19.31.38:684][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-19.31.38:684][373]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-19.31.38:684][373]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-19.31.38:693][373]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-19.31.38:693][373]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-19.31.38:712][373]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-19.31.38:713][373]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-19.31.38:713][373]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-19.31.38:713][373]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-19.31.38:713][373]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-19.31.38:725][373]LogInit: FAudioDevice initialized.
+[2021.10.01-19.31.38:733][373]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-19.31.38:771][373]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-15.31.38
+[2021.10.01-19.31.40:216][373]LogWorld: Bringing up level for play took: 1.462865
+[2021.10.01-19.31.40:217][373]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.10.01-19.31.40:220][373]PIE: Server logged in
+[2021.10.01-19.31.40:221][373]PIE: Play in editor total start time 1.618 seconds.
+[2021.10.01-19.31.41:007][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-19.31.41:007][437]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-19.31.41:009][437]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-19.31.41:013][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-19.31.41:027][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-19.31.41:031][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-19.31.41:072][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-19.31.41:074][437]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FB8550B880), frame # 131437
+[2021.10.01-19.31.41:074][437]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FC578DA400), frame # 131437
+[2021.10.01-19.31.41:078][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.10.01-19.31.41:123][438]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.10.01-19.31.41:148][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.10.01-19.31.43:033][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-19.31.43:033][631]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 11:31:43 AM)
+[2021.10.01-19.31.43:033][631]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-19.31.43:078][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044863s)
+[2021.10.01-19.31.43:079][631]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-19.31.43:079][631]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FC6727BE00), frame # 131631
+[2021.10.01-19.31.43:079][631]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FC654CFC40), frame # 131631
+[2021.10.01-19.31.43:079][631]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2021.10.01-19.31.43:079][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.046029s)
+[2021.10.01-19.31.43:104][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.10.01-19.31.43:106][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-19.31.43:106][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-19.31.43:106][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-19.31.43:106][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-19.31.43:106][631]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-19.31.43:106][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-19.31.43:106][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-19.31.43:106][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-19.31.43:106][631]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-19.31.43:106][631]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-19.31.43:114][631]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-19.31.43:114][631]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-19.31.43:133][631]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-19.31.43:134][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-19.31.43:134][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-19.31.43:134][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-19.31.43:134][631]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-19.31.43:146][631]LogInit: FAudioDevice initialized.
+[2021.10.01-19.31.43:150][631]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-19.31.43:189][631]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-15.31.43
+[2021.10.01-19.31.44:640][631]LogWorld: Bringing up level for play took: 1.467952
+[2021.10.01-19.31.44:640][631]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.10.01-19.31.44:644][631]PIE: Server logged in
+[2021.10.01-19.31.44:645][631]PIE: Play in editor total start time 1.612 seconds.
+[2021.10.01-19.33.05:698][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-19.33.05:698][980]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-19.33.05:699][980]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-19.33.05:703][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-19.33.05:721][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-19.33.05:726][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-19.33.05:755][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-19.33.05:777][980]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FC654CFC40), frame # 138980
+[2021.10.01-19.33.05:777][980]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FC6727BE00), frame # 138980
+[2021.10.01-19.33.05:781][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.01-19.33.05:841][981]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.10.01-19.33.05:868][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.10.01-19.33.29:379][103]LogEditorViewport: Clicking on Actor (LMB): BP_jumpBoost_C (BP_jumpBoost)
+[2021.10.01-19.33.30:185][162]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.01-19.33.41:947][ 17]LogSlate: Took 0.006591 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.10.01-19.37.40:737][453]LogEditorViewport: Clicking on Actor (LMB): BP_coin_C (BP_coin6)
+[2021.10.01-19.37.43:653][686]LogEditorViewport: Clicking on Actor (LMB): BP_coin_C (BP_coin5)
+[2021.10.01-19.37.45:970][870]LogEditorViewport: Clicking on Actor (LMB): BP_coin_C (BP_coin4)
+[2021.10.01-19.37.48:682][ 83]LogEditorViewport: Clicking on Actor (LMB): BP_coin_C (BP_coin2)
+[2021.10.01-19.37.51:770][328]LogEditorViewport: Clicking on Actor (LMB): BP_coin_C (BP_coin3)
+[2021.10.01-19.37.54:346][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cloud_B38)
+[2021.10.01-19.37.54:886][568]LogEditorViewport: Clicking on Actor (LMB): BP_coin_C (BP_coin)
+[2021.10.01-19.38.11:883][886]LogEditorViewport: Clicking on Actor (LMB): BP_jumpBoost_C (BP_jumpBoost)
+[2021.10.01-19.38.37:147][814]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-19.38.37:153][814]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.01-19.38.37:154][814]LogPlayLevel: [PlayLevel] Compiling BP_jumpBoost before play...
+[2021.10.01-19.38.37:261][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.10.01-19.38.37:269][814]LogPlayLevel: PlayLevel: Blueprint regeneration took 115 ms (1 blueprints)
+[2021.10.01-19.38.37:269][814]PIE: New page: PIE session: Level_HOC_world (Oct 1, 2021, 11:38:37 AM)
+[2021.10.01-19.38.37:309][814]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-19.38.37:355][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046410s)
+[2021.10.01-19.38.37:355][814]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.10.01-19.38.37:356][814]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FC89D2E400), frame # 159814
+[2021.10.01-19.38.37:356][814]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FC843B82C0), frame # 159814
+[2021.10.01-19.38.37:356][814]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2021.10.01-19.38.37:356][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.047734s)
+[2021.10.01-19.38.37:380][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.10.01-19.38.37:380][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-19.38.37:381][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-19.38.37:381][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-19.38.37:381][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-19.38.37:381][814]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-19.38.37:381][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-19.38.37:381][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-19.38.37:381][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-19.38.37:381][814]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-19.38.37:381][814]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-19.38.37:389][814]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-19.38.37:389][814]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-19.38.37:410][814]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2021.10.01-19.38.37:410][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-19.38.37:410][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-19.38.37:410][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-19.38.37:410][814]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-19.38.37:422][814]LogInit: FAudioDevice initialized.
+[2021.10.01-19.38.37:432][814]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.01-19.38.37:472][814]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.10.01-15.38.37
+[2021.10.01-19.38.38:926][814]LogWorld: Bringing up level for play took: 1.471456
+[2021.10.01-19.38.38:926][814]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.10.01-19.38.38:931][814]PIE: Server logged in
+[2021.10.01-19.38.38:932][814]PIE: Play in editor total start time 1.78 seconds.
+[2021.10.01-19.39.15:950][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-19.39.15:951][930]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.10.01-19.39.15:952][930]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-19.39.15:956][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-19.39.15:975][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-19.39.15:980][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-19.39.16:004][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-19.39.16:025][930]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FC843B82C0), frame # 162930
+[2021.10.01-19.39.16:025][930]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FC89D2E400), frame # 162930
+[2021.10.01-19.39.16:028][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.10.01-19.39.16:089][931]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.10.01-19.39.16:116][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.10.01-19.39.17:464][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin
+[2021.10.01-19.40.06:239][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.10.01-19.40.06:467][258]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_HOC_world_Auto461590415465DA5EC2E05C194AB2D1B1A.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/Hour_of_Code/Maps/Level_HOC_world_Auto4.umap'
+[2021.10.01-19.40.06:480][258]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_03_end_Auto448ACA85C47C6100F98E09CBB6259AC9D.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/Hour_of_Code/Maps/Level_03_end_Auto4.umap'
+[2021.10.01-19.40.06:480][258]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Hour_of_Code/Maps/Level_HOC_world' took 0.270
+[2021.10.01-19.40.06:480][258]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.270
+[2021.10.01-19.40.06:481][258]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Hour_of_Code/Blueprints/BP_jumpBoost] ([1] browsable assets)...
+[2021.10.01-19.40.06:489][258]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost]
+[2021.10.01-19.40.06:489][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Blueprints/BP_jumpBoost]
+[2021.10.01-19.40.06:507][258]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/BP_jumpBoost_Auto4E1547979413DD0F8DAB7AF97E9125F7B.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/Hour_of_Code/Blueprints/BP_jumpBoost_Auto4.uasset'
+[2021.10.01-19.40.06:508][258]LogFileHelpers: Auto-saving content packages took 0.027
+[2021.10.01-19.40.08:591][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.10.01-19.40.08:809][414]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_HOC_world66DE865146C43268A4D0F6839AF0A4F6.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Maps/Level_HOC_world.umap'
+[2021.10.01-19.40.08:826][414]AssetCheck: New page: Asset Save: Level_HOC_world
+[2021.10.01-19.40.08:827][414]LogContentValidation: Display: Validating World /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world
+[2021.10.01-19.40.13:968][861]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/BP_jumpBoostC5317BA844BB9D1A61033AA66116F6C3.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Blueprints/BP_jumpBoost.uasset'
+[2021.10.01-19.40.13:986][861]AssetCheck: New page: Asset Save: BP_jumpBoost
+[2021.10.01-19.40.13:986][861]LogContentValidation: Display: Validating Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost
+[2021.10.01-19.40.17:423][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.10.01-19.40.17:648][142]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_HOC_worldEBEF8FF64C9A4E3ECB4E56BAD9C2CA02.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Maps/Level_HOC_world.umap'
+[2021.10.01-19.40.17:663][142]AssetCheck: New page: Asset Save: Level_HOC_world
+[2021.10.01-19.40.17:663][142]LogContentValidation: Display: Validating World /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world
