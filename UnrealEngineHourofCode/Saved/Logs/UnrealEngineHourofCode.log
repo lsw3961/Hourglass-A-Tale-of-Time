@@ -6266,3 +6266,61 @@ Scale3D: 1.000000 1.000000 1.000000
 [2021.10.01-22.36.53:997][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
 [2021.10.01-22.37.38:426][608]LogSlate: Window 'Message Log' being destroyed
 [2021.10.01-22.37.38:430][608]LogSlate: Window 'Message Log' being destroyed
+[2021.10.01-22.39.17:101][787]LogSlate: Window 'W_gameCompletion' being destroyed
+[2021.10.01-22.39.17:104][787]LogSlate: Window 'W_gameCompletion' being destroyed
+[2021.10.01-22.39.17:109][787]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.39.17:109][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.39.17:169][787]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.39.17:169][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.39.17:177][787]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.39.17:177][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.39.17:223][787]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.01-22.39.17:223][787]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.39.17:223][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.39.17:290][787]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.01-22.39.17:290][787]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.39.17:290][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.39.17:352][787]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.39.17:352][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.39.17:356][787]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-22.39.17:356][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-22.39.19:178][998]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/BouncingIslandAD97FBC4417D5993436638AE6367400B.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/AddedContent/Sequences/BouncingIsland.uasset'
+[2021.10.01-22.39.19:191][998]AssetCheck: New page: Asset Save: BouncingIsland
+[2021.10.01-22.39.19:191][998]LogContentValidation: Display: Validating LevelSequence /Game/AddedContent/Sequences/BouncingIsland.BouncingIsland
+[2021.10.01-22.39.22:542][380]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/W_gameCompletion8D31BC364EC72761BF18F68DFA3B5FB8.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset'
+[2021.10.01-22.39.22:553][380]AssetCheck: New page: Asset Save: W_gameCompletion
+[2021.10.01-22.39.22:553][380]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.01-22.39.23:126][444]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/W_gameCompletion021E2CC4442088CAE726ADBFE18C8800.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset'
+[2021.10.01-22.39.23:136][444]AssetCheck: New page: Asset Save: W_gameCompletion
+[2021.10.01-22.39.23:136][444]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.01-22.39.23:544][488]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/W_gameCompletion4B2CA5104740EB83C918A48B37CA8CD5.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset'
+[2021.10.01-22.39.23:555][488]AssetCheck: New page: Asset Save: W_gameCompletion
+[2021.10.01-22.39.23:555][488]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.01-22.39.23:877][523]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/W_gameCompletion490407774FBD1D6A7BBA6B908FFD0969.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset'
+[2021.10.01-22.39.23:888][523]AssetCheck: New page: Asset Save: W_gameCompletion
+[2021.10.01-22.39.23:888][523]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.01-22.39.24:414][581]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/W_gameCompletion15C8C8CC4E532480C786449508732D79.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset'
+[2021.10.01-22.39.24:425][581]AssetCheck: New page: Asset Save: W_gameCompletion
+[2021.10.01-22.39.24:425][581]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.01-22.39.24:630][601]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/W_gameCompletion076CEE3B4589B9BD6735C59237B2E4A6.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset'
+[2021.10.01-22.39.24:640][601]AssetCheck: New page: Asset Save: W_gameCompletion
+[2021.10.01-22.39.24:640][601]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.01-22.39.24:830][619]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/W_gameCompletion74CAF3284C1EEC69FCE1E492DD6E3DEF.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset'
+[2021.10.01-22.39.24:841][619]AssetCheck: New page: Asset Save: W_gameCompletion
+[2021.10.01-22.39.24:841][619]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.01-22.39.24:997][633]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/W_gameCompletionB384430549CD22F2A8E84D9448EC227D.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset'
+[2021.10.01-22.39.25:008][633]AssetCheck: New page: Asset Save: W_gameCompletion
+[2021.10.01-22.39.25:008][633]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.01-22.39.26:005][752]Cmd: SELECT NONE
+[2021.10.01-22.39.26:659][827]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/BouncingIsland1AF69A584185DBEBB37685885336D870.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/AddedContent/Sequences/BouncingIsland.uasset'
+[2021.10.01-22.39.26:669][827]AssetCheck: New page: Asset Save: BouncingIsland
+[2021.10.01-22.39.26:669][827]LogContentValidation: Display: Validating LevelSequence /Game/AddedContent/Sequences/BouncingIsland.BouncingIsland
+[2021.10.01-22.39.27:162][882]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/BouncingIslandFA517C9D41273808216029B41E916B4E.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/AddedContent/Sequences/BouncingIsland.uasset'
+[2021.10.01-22.39.27:173][882]AssetCheck: New page: Asset Save: BouncingIsland
+[2021.10.01-22.39.27:173][882]LogContentValidation: Display: Validating LevelSequence /Game/AddedContent/Sequences/BouncingIsland.BouncingIsland
+[2021.10.01-22.39.29:393][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.10.01-22.39.29:656][126]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_HOC_worldE73D4C444EF1E726F462F4A7AF51516C.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Maps/Level_HOC_world.umap'
+[2021.10.01-22.39.30:312][126]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Level_HOC_world_BuiltDataC2265A89485CD477A2F8498A36ACAC1C.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Maps/Level_HOC_world_BuiltData.uasset'
+[2021.10.01-22.39.30:356][126]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.01-22.39.30:356][126]LogContentValidation: Display: Validating World /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world
+[2021.10.01-22.39.30:356][126]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Hour_of_Code/Maps/Level_HOC_world_BuiltData.Level_HOC_world_BuiltData
