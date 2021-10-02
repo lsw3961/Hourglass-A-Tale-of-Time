@@ -2898,3 +2898,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.02-16.57.00:651][522]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/FinalGameLevel1_Auto637029CB84BD54BA220CD40AB9A32CA96.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/Hour_of_Code/Maps/FinalGameLevel1_Auto6.umap'
 [2021.10.02-16.57.00:652][522]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Hour_of_Code/Maps/FinalGameLevel1' took 0.284
 [2021.10.02-16.57.00:652][522]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.284
+[2021.10.02-16.58.04:962][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.10.02-16.58.05:208][777]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/FinalGameLevel19254527E41AC45E8ED6867823237B7CC.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Maps/FinalGameLevel1.umap'
+[2021.10.02-16.58.05:870][777]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/FinalGameLevel1_BuiltData9D67A4404EF8B700832492959F2BF60C.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Maps/FinalGameLevel1_BuiltData.uasset'
+[2021.10.02-16.58.05:918][777]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.02-16.58.05:918][777]LogContentValidation: Display: Validating World /Game/Hour_of_Code/Maps/FinalGameLevel1.FinalGameLevel1
+[2021.10.02-16.58.05:918][777]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Hour_of_Code/Maps/FinalGameLevel1_BuiltData.FinalGameLevel1_BuiltData
