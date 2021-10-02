@@ -2200,3 +2200,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.02-16.19.56:742][370]Can't find target actor or component.
 [2021.10.02-16.20.23:587][283]LogSlate: Window 'Message Log' being destroyed
 [2021.10.02-16.20.23:592][283]LogSlate: Window 'Message Log' being destroyed
+[2021.10.02-16.23.03:178][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.10.02-16.23.11:815][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.10.02-16.23.11:825][154]LogMetaData: Removing '/Game/Hour_of_Code/Maps/FinalGameLevel1.FinalGameLevel1_C' ref from Metadata '/Game/Hour_of_Code/Maps/Level_HOC_world.PackageMetaData'
+[2021.10.02-16.23.11:825][154]LogMetaData: Removing '/Game/Hour_of_Code/Maps/FinalGameLevel1.SKEL_FinalGameLevel1_C' ref from Metadata '/Game/Hour_of_Code/Maps/Level_HOC_world.PackageMetaData'
+[2021.10.02-16.23.12:473][154]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/FinalGameLevel1_BuiltDataFFC840264848F191287CC691548E7794.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Maps/FinalGameLevel1_BuiltData.uasset'
+[2021.10.02-16.23.12:494][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.10.02-16.23.12:797][154]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/FinalGameLevel1C6821E9B489A04E30665668E4746EE54.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Maps/FinalGameLevel1.umap'
+[2021.10.02-16.23.12:813][154]LogFileHelpers: Saving map 'FinalGameLevel1' took 0.339
+[2021.10.02-16.23.13:170][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.10.02-16.23.13:188][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.10.02-16.23.13:212][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.10.02-16.23.13:230][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.10.02-16.23.13:259][154]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/BouncingIslandB3AF2D8D421DA4AE5229F09344221ACA.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/AddedContent/Sequences/BouncingIsland.uasset'
+[2021.10.02-16.23.13:263][154]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/s_MovingIslands37DA6CE94FA716D0953912A35E2881C7.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Sequences/s_MovingIslands.uasset'
+[2021.10.02-16.23.13:267][154]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/S_platform_level_02_end3A0DF6D540E91ABF03ACC1B2FB51C5B9.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Sequences/S_platform_level_02_end.uasset'
+[2021.10.02-16.23.13:387][154]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.02-16.23.13:387][154]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Hour_of_Code/Maps/FinalGameLevel1_BuiltData.FinalGameLevel1_BuiltData
+[2021.10.02-16.23.13:387][154]LogContentValidation: Display: Validating World /Game/Hour_of_Code/Maps/FinalGameLevel1.FinalGameLevel1
+[2021.10.02-16.23.13:387][154]LogContentValidation: Display: Validating LevelSequence /Game/AddedContent/Sequences/BouncingIsland.BouncingIsland
+[2021.10.02-16.23.13:387][154]LogContentValidation: Display: Validating LevelSequence /Game/Hour_of_Code/Sequences/s_MovingIslands.s_MovingIslands
+[2021.10.02-16.23.13:387][154]LogContentValidation: Display: Validating LevelSequence /Game/Hour_of_Code/Sequences/S_platform_level_02_end.S_platform_level_02_end
+[2021.10.02-16.23.56:793][704]LogSlate: Window 'Project Settings' being destroyed
+[2021.10.02-16.23.56:798][704]LogSlate: Window 'Project Settings' being destroyed
+[2021.10.02-16.26.51:767][124]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2021.10.02-16.27.14:988][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kit_Roof_Middle26)
+[2021.10.02-16.27.44:837][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cloud_B23)
+[2021.10.02-16.29.06:839][362]LogSlate: Window 'Remove Level' being destroyed
