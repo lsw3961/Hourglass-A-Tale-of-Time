@@ -1703,3 +1703,470 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.07-00.16.57:142][ 14]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.07-00.16.57:142][ 14]LogContentValidation: Display: Validating World /Game/Hour_of_Code/Maps/FinalGameLevel2.FinalGameLevel2
 [2021.10.07-00.16.57:142][ 14]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Hour_of_Code/Maps/FinalGameLevel2_BuiltData.FinalGameLevel2_BuiltData
+[2021.10.07-00.18.20:602][  2]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AddedContent/Widget/LoadingScreen.LoadingScreen
+[2021.10.07-00.18.20:801][  2]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
+[2021.10.07-00.18.21:540][  2]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.07-00.19.41:300][985]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.07-00.19.48:304][391]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.07-00.20.05:525][389]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.07-00.20.11:980][765]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.07-00.20.49:275][126]LogEditorViewport: Clicking Background
+[2021.10.07-00.22.33:551][921]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Profiles\lsw3961\Downloads\island.PNG)
+[2021.10.07-00.22.33:557][921]LogTexture: Display: Building textures: island (BGRA8, 434X378)
+[2021.10.07-00.23.20:709][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.10.07-00.23.22:996][853]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.07-00.23.23:000][853]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 2
+SessionName : 
+Reason      : Delete Selected Item
+
+Purging the undo buffer...
+
+[2021.10.07-00.23.24:275][853]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AddedContent/Images/island.island
+[2021.10.07-00.23.25:623][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.10.07-00.25.01:616][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.10.07-00.25.01:647][875]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/TeacherMarketplace_LIGHTING_01_AD27743784BA9B16DE02498B8D660EEEB.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/TeachersMarketplace/Maps/TeacherMarketplace_LIGHTING_01_Auto1.umap'
+[2021.10.07-00.25.01:648][875]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Hour_of_Code/Maps/FinalGameLevel2' took 0.055
+[2021.10.07-00.25.01:648][875]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.055
+[2021.10.07-00.25.01:649][875]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Sequences/S_platform_level_02_end] ([1] browsable assets)...
+[2021.10.07-00.25.01:649][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Sequences/S_platform_level_02_end]
+[2021.10.07-00.25.01:652][875]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/S_platform_level_02_end_Auto18293AB484F12C80DD222A5B884369771.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/Hour_of_Code/Sequences/S_platform_level_02_end_Auto1.uasset'
+[2021.10.07-00.25.01:652][875]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AddedContent/Widget/LoadingScreen] ([1] browsable assets)...
+[2021.10.07-00.25.01:652][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/AddedContent/Widget/LoadingScreen]
+[2021.10.07-00.25.01:656][875]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/LoadingScreen_Auto113CA7CCC437AEF451ED65785EEA4F734.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/Autosaves/Game/AddedContent/Widget/LoadingScreen_Auto1.uasset'
+[2021.10.07-00.25.01:656][875]LogFileHelpers: Auto-saving content packages took 0.008
+[2021.10.07-00.27.14:574][401]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Profiles\lsw3961\Downloads\island.PNG)
+[2021.10.07-00.27.14:577][401]LogTexture: Display: Building textures: island (BGRA8, 434X378)
+[2021.10.07-00.27.33:210][901]LogEditorTransaction: Undo Move Widget
+[2021.10.07-00.28.09:318][739]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.07-00.28.55:880][446]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.07-00.29.01:953][977]BlueprintLog: New page: Compile LoadingScreen
+[2021.10.07-00.29.01:982][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.10.07-00.29.16:537][303]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.07-00.29.19:395][569]BlueprintLog: New page: Compile LoadingScreen
+[2021.10.07-00.29.19:433][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.10.07-00.29.22:435][869]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/LoadingScreenDC015E17432447CA1D7C0D916551AA75.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/AddedContent/Widget/LoadingScreen.uasset'
+[2021.10.07-00.29.22:448][869]AssetCheck: New page: Asset Save: LoadingScreen
+[2021.10.07-00.29.22:448][869]LogContentValidation: Display: Validating WidgetBlueprint /Game/AddedContent/Widget/LoadingScreen.LoadingScreen
+[2021.10.07-00.29.51:083][621]LogTexture: Display: Building textures: background (BGRA8, 809X553)
+[2021.10.07-00.29.51:085][621]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Hour_of_Code/Maps/MainMenu.MainMenu
+[2021.10.07-00.29.51:110][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.10.07-00.29.52:288][621]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-00.29.52:323][621]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/islandDA1063064A2A3EC867D6AA9A7A1C8450.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/AddedContent/Images/island.uasset'
+[2021.10.07-00.29.52:326][621]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/S_platform_level_02_end7496C7B2478AECC637A952A4404CE54F.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Sequences/S_platform_level_02_end.uasset'
+[2021.10.07-00.29.52:350][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.10.07-00.29.52:374][621]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/TeacherMarketplace_LIGHTING_011576576345038616F6B120A9FF2BCBD9.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/TeachersMarketplace/Maps/TeacherMarketplace_LIGHTING_01.umap'
+[2021.10.07-00.29.52:375][621]LogFileHelpers: Saving map 'TeacherMarketplace_LIGHTING_01' took 0.047
+[2021.10.07-00.29.52:409][621]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/TeacherMarketplace_LIGHTING_01_B4B6322D248563CF59BE2BCB070C4518C.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/TeachersMarketplace/Maps/TeacherMarketplace_LIGHTING_01_BuiltData.uasset'
+[2021.10.07-00.29.52:410][621]Cmd: MAP LOAD FILE="D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.07-00.29.52:410][621]LightingResults: New page: Lighting Build
+[2021.10.07-00.29.52:410][621]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 3
+SessionName : 
+Reason      : Loading map: MainMenu.umap...
+
+Purging the undo buffer...
+
+[2021.10.07-00.29.52:410][621]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.10.07-00.29.52:440][621]LogWorld: UWorld::CleanupWorld for FinalGameLevel2, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.29.52:440][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.29.52:441][621]LogWorld: UWorld::CleanupWorld for TeacherMarketplace_LIGHTING_01, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.29.52:441][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.29.52:441][621]MapCheck: New page: Map Check
+[2021.10.07-00.29.52:441][621]LightingResults: New page: Lighting Build
+[2021.10.07-00.29.52:481][621]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D7901402C0), frame # 143621
+[2021.10.07-00.29.52:482][621]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D79B100800), frame # 143621
+[2021.10.07-00.29.52:487][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.10.07-00.29.52:547][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.10.07-00.29.52:568][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.10.07-00.29.52:571][621]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.07-00.29.52:571][621]LogAIModule: Creating AISystem for world MainMenu
+[2021.10.07-00.29.52:571][621]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D83EA18E00), frame # 143621
+[2021.10.07-00.29.52:571][621]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D839D66D40), frame # 143621
+[2021.10.07-00.29.52:594][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.10.07-00.29.52:609][621]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.07-00.29.52:610][621]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2021.10.07-00.29.52:610][621]LogFileHelpers: Loading map 'MainMenu' took 0.201
+[2021.10.07-00.29.52:662][621]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.07-00.29.52:662][621]LogContentValidation: Display: Validating Texture2D /Game/AddedContent/Images/island.island
+[2021.10.07-00.29.52:662][621]LogContentValidation: Display: Validating LevelSequence /Game/Hour_of_Code/Sequences/S_platform_level_02_end.S_platform_level_02_end
+[2021.10.07-00.29.52:662][621]LogContentValidation: Display: Validating World /Game/TeachersMarketplace/Maps/TeacherMarketplace_LIGHTING_01.TeacherMarketplace_LIGHTING_01
+[2021.10.07-00.29.52:688][621]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TeachersMarketplace/Maps/TeacherMarketplace_LIGHTING_01_BuiltData.TeacherMarketplace_LIGHTING_01_BuiltData
+[2021.10.07-00.29.52:712][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.10.07-00.30.03:517][848]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.07-00.31.05:673][467]BlueprintLog: New page: Compile W_gameCompletion
+[2021.10.07-00.31.05:708][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.10.07-00.31.07:151][614]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/W_gameCompletion3C248FEC4A65BDD2C691E98D2B505AD0.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset'
+[2021.10.07-00.31.07:164][614]AssetCheck: New page: Asset Save: W_gameCompletion
+[2021.10.07-00.31.07:164][614]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2021.10.07-00.31.16:886][656]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AddedContent/Widget/MainMenu.MainMenu
+[2021.10.07-00.31.46:663][679]BlueprintLog: New page: Compile MainMenu
+[2021.10.07-00.31.46:699][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.10.07-00.31.50:298][ 52]LogTexture: Display: Building textures: HourOfCodeFinalImage (BGRA8, 894X488)
+[2021.10.07-00.31.50:325][ 52]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AddedContent/Widget/VictoryMenu.VictoryMenu
+[2021.10.07-00.32.17:310][931]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Hour_of_Code/Widgets/W_HUD.W_HUD
+[2021.10.07-00.32.18:806][ 69]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Hour_of_Code/Widgets/W_lockedDoor.W_lockedDoor
+[2021.10.07-00.32.26:113][865]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/VictoryMenuECC35EA4432924FE0C374BBCC3F81BB6.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/AddedContent/Widget/VictoryMenu.uasset'
+[2021.10.07-00.32.26:125][865]AssetCheck: New page: Asset Save: VictoryMenu
+[2021.10.07-00.32.26:125][865]LogContentValidation: Display: Validating WidgetBlueprint /Game/AddedContent/Widget/VictoryMenu.VictoryMenu
+[2021.10.07-00.32.30:854][360]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/MainMenuFE35240147A02702471CD09FCA775D0D.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/AddedContent/Widget/MainMenu.uasset'
+[2021.10.07-00.32.30:864][360]AssetCheck: New page: Asset Save: MainMenu
+[2021.10.07-00.32.30:864][360]LogContentValidation: Display: Validating WidgetBlueprint /Game/AddedContent/Widget/MainMenu.MainMenu
+[2021.10.07-00.32.34:104][705]LogSlate: Window 'W_lockedDoor' being destroyed
+[2021.10.07-00.32.34:108][705]LogSlate: Window 'W_lockedDoor' being destroyed
+[2021.10.07-00.32.34:161][705]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.32.34:161][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.32.34:173][705]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.32.34:173][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.32.34:214][705]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.32.34:214][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.32.34:218][705]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.32.34:218][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.32.34:262][705]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.32.34:262][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.32.34:273][705]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.32.34:273][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.32.34:316][705]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.32.34:316][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.32.34:319][705]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.32.34:320][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.32.34:359][705]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.32.34:359][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.32.34:363][705]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.32.34:363][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.32.34:400][705]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.32.34:400][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.32.34:403][705]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.32.34:404][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.32.38:605][163]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.07-00.32.38:606][163]LogPlayLevel: [PlayLevel] Compiling VictoryMenu before play...
+[2021.10.07-00.32.38:652][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.10.07-00.32.38:655][163]LogPlayLevel: PlayLevel: Blueprint regeneration took 49 ms (1 blueprints)
+[2021.10.07-00.32.38:655][163]PIE: New page: PIE session: MainMenu (Oct 6, 2021, 4:32:38 PM)
+[2021.10.07-00.32.38:681][163]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_MainMenu
+[2021.10.07-00.32.38:683][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002266s)
+[2021.10.07-00.32.38:684][163]LogAIModule: Creating AISystem for world MainMenu
+[2021.10.07-00.32.38:684][163]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D88182FE00), frame # 161163
+[2021.10.07-00.32.38:684][163]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D748434B80), frame # 161163
+[2021.10.07-00.32.38:684][163]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2021.10.07-00.32.38:684][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/MainMenu.MainMenu to /Game/Hour_of_Code/Maps/UEDPIE_0_MainMenu.MainMenu (0.003725s)
+[2021.10.07-00.32.38:704][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.10.07-00.32.38:704][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.07-00.32.38:704][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.07-00.32.38:704][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.07-00.32.38:704][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.07-00.32.38:704][163]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.07-00.32.38:704][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.07-00.32.38:704][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.07-00.32.38:704][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.07-00.32.38:705][163]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.07-00.32.38:705][163]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.07-00.32.38:714][163]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.07-00.32.38:714][163]LogAudioMixer: Display: 1: FrontRight
+[2021.10.07-00.32.38:736][163]LogAudioMixer: Display: Using Audio Device Dell S2417DG (2- NVIDIA High Definition Audio)
+[2021.10.07-00.32.38:736][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.07-00.32.38:736][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.07-00.32.38:736][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.07-00.32.38:736][163]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.07-00.32.38:749][163]LogInit: FAudioDevice initialized.
+[2021.10.07-00.32.38:761][163]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.07-00.32.38:762][163]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.10.06-20.32.38
+[2021.10.07-00.32.38:762][163]LogWorld: Bringing up level for play took: 0.000415
+[2021.10.07-00.32.38:762][163]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.10.07-00.32.38:768][163]PIE: Server logged in
+[2021.10.07-00.32.38:769][163]PIE: Play in editor total start time 0.164 seconds.
+[2021.10.07-00.32.40:771][399]LogNet: Browse: /Game/Hour_of_Code/Maps/FinalGameLevel1
+[2021.10.07-00.32.40:772][399]LogLoad: LoadMap: /Game/Hour_of_Code/Maps/FinalGameLevel1
+[2021.10.07-00.32.40:772][399]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_MainMenu
+[2021.10.07-00.32.40:772][399]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2021.10.07-00.32.40:772][399]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.32.40:772][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.32.40:830][399]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D748434B80), frame # 161399
+[2021.10.07-00.32.40:830][399]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D88182FE00), frame # 161399
+[2021.10.07-00.32.40:832][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.07-00.32.41:019][399]LogAIModule: Creating AISystem for world FinalGameLevel1
+[2021.10.07-00.32.41:019][399]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D72683B800), frame # 161399
+[2021.10.07-00.32.41:019][399]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D7260CA340), frame # 161399
+[2021.10.07-00.32.41:020][399]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.07-00.32.41:083][399]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_FinalGameLevel1.FinalGameLevel1 up for play (max tick rate 0) at 2021.10.06-20.32.41
+[2021.10.07-00.32.42:543][399]LogWorld: Bringing up level for play took: 1.499466
+[2021.10.07-00.32.42:548][399]LogLoad: Took 1.776873 seconds to LoadMap(/Game/Hour_of_Code/Maps/FinalGameLevel1)
+[2021.10.07-00.32.45:191][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-00.32.45:191][703]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_FinalGameLevel1
+[2021.10.07-00.32.45:193][703]LogWorld: UWorld::CleanupWorld for FinalGameLevel1, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.32.45:198][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.32.45:204][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.07-00.32.45:208][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.32.45:231][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-00.32.45:250][703]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D7260CA340), frame # 161703
+[2021.10.07-00.32.45:250][703]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D72683B800), frame # 161703
+[2021.10.07-00.32.45:252][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.10.07-00.32.45:288][704]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.10.07-00.32.45:308][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.10.07-00.32.48:605][ 72]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Hour_of_Code/Maps/FinalGameLevel1.FinalGameLevel1
+[2021.10.07-00.32.48:632][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.10.07-00.32.48:634][ 72]Cmd: MAP LOAD FILE="D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Maps/FinalGameLevel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.07-00.32.48:634][ 72]LightingResults: New page: Lighting Build
+[2021.10.07-00.32.48:635][ 72]LoadErrors: New page: Loading map: FinalGameLevel1.umap
+[2021.10.07-00.32.48:661][ 72]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-00.32.48:661][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-00.32.48:662][ 72]MapCheck: New page: Map Check
+[2021.10.07-00.32.48:662][ 72]LightingResults: New page: Lighting Build
+[2021.10.07-00.32.48:681][ 72]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D839D66D40), frame # 162072
+[2021.10.07-00.32.48:681][ 72]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D83EA18E00), frame # 162072
+[2021.10.07-00.32.48:683][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.10.07-00.32.48:705][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.10.07-00.32.48:725][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.10.07-00.32.49:677][ 72]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TeachersMarketplace/Maps/TeacherMarketplace_LIGHTING_01) is flushing async loading
+[2021.10.07-00.32.49:677][ 72]LogStreaming: Display: Flushing async loaders.
+[2021.10.07-00.32.50:254][ 72]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.07-00.32.50:255][ 72]LogAIModule: Creating AISystem for world FinalGameLevel1
+[2021.10.07-00.32.50:255][ 72]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D83A112E00), frame # 162072
+[2021.10.07-00.32.50:255][ 72]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D843BAC180), frame # 162072
+[2021.10.07-00.32.50:286][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.10.07-00.32.50:302][ 72]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.07-00.32.50:302][ 72]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.283ms to complete.
+[2021.10.07-00.32.50:302][ 72]LogFileHelpers: Loading map 'FinalGameLevel1' took 1.668
+[2021.10.07-00.32.59:905][131]MapCheck: New page: Map Check
+[2021.10.07-00.32.59:916][131]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.07-00.32.59:916][131]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.07-00.32.59:926][131]LogWorld: UWorld::CleanupWorld for FinalGameLevel1, bSessionEnded=true, bCleanupResources=false
+[2021.10.07-00.32.59:926][131]LogWorld: UWorld::CleanupWorld for TeacherMarketplace_LIGHTING_01, bSessionEnded=true, bCleanupResources=false
+[2021.10.07-00.33.01:493][131]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.07-00.33.01:493][131]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.07-00.33.01:493][131]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.07-00.33.01:520][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.10.07-00.33.01:532][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.07-00.33.01:535][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.07-00.33.01:537][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.07-00.33.01:539][131]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.10.07-00.33.01:539][131]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.10.07-00.33.01:539][131]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.10.07-00.33.01:539][131]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.10.07-00.33.01:539][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.07-00.33.01:540][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.07-00.33.01:543][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.07-00.33.01:544][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.07-00.33.01:546][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.07-00.33.01:548][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.07-00.33.01:550][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.07-00.33.01:551][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.07-00.33.01:552][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.07-00.33.02:289][131]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2021.10.07-00.33.02:289][131]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2021.10.07-00.33.02:289][131]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2021.10.07-00.33.02:289][131]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2021.10.07-00.33.02:289][131]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2021.10.07-00.33.02:289][131]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2021.10.07-00.33.02:289][131]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2021.10.07-00.33.02:289][131]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2021.10.07-00.33.02:289][131]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.10.07-00.33.02:289][131]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 11
+[2021.10.07-00.33.02:289][131]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2021.10.07-00.33.02:289][131]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.10.07-00.33.02:289][131]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2021.10.07-00.33.02:289][131]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2021.10.07-00.33.02:289][131]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.10.07-00.33.02:290][131]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2021.10.07-00.33.02:290][131]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.10.07-00.33.02:290][131]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2021.10.07-00.33.02:290][131]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.10.07-00.33.02:290][131]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.10.07-00.33.02:290][131]TextureStreamingBuild: Display: Compiling optional shaders took 0.761 seconds.
+[2021.10.07-00.33.02:331][131]LogLevel: Display: Export Material TexCoord Scales took 0.042 seconds.
+[2021.10.07-00.33.02:368][131]TextureStreamingBuild: Display: Build Texture Streaming took 0.038 seconds.
+[2021.10.07-00.33.02:391][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.10.07-00.33.02:394][131]LightingResults: New page: Lighting Build - Oct 6, 2021, 4:33:02 PM
+[2021.10.07-00.33.02:402][131]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.07-00.33.02:405][131]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.07-00.33.02:405][131]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.07-00.33.02:406][131]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.07-00.33.02:406][131]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4132
+[2021.10.07-00.33.02:500][131]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.10.07-00.33.02:505][131]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.07-00.33.02:505][131]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.07-00.33.02:505][131]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.07-00.33.02:505][131]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.07-00.33.02:505][131]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.07-00.33.02:610][131]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.07-00.33.02:610][131]MapCheck: New page: FinalGameLevel1 - Oct 6, 2021, 4:33:02 PM
+[2021.10.07-00.33.02:610][131]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.10.07-00.33.02:615][131]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 5.57ms to complete.
+[2021.10.07-00.33.02:617][131]LogEditorBuildUtils: Build time 0:02
+[2021.10.07-00.33.03:115][132]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.10.07-00.33.10:154][558]LogSlate: Window 'Message Log' being destroyed
+[2021.10.07-00.33.10:159][558]LogSlate: Window 'Message Log' being destroyed
+[2021.10.07-00.33.31:044][697]Job is a success!
+[2021.10.07-00.33.31:544][698]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.030s
+[2021.10.07-00.33.31:544][698]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.10.07-00.33.31:544][698]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2021.10.07-00.33.31:544][698]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.07-00.33.31:544][698]LogVolumetricLightmapImport:          0: 66.7% covering 100.0% of volume
+[2021.10.07-00.33.31:544][698]LogVolumetricLightmapImport:          1: 33.3% covering 0.8% of volume
+[2021.10.07-00.33.31:544][698]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.10.07-00.33.31:544][698]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.07-00.33.31:544][698]LogVolumetricLightmapImport:          FinalGameLevel1 			 12 bricks 	 100.0% (Persistent Level)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 512X512)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 512X512)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 1024X1024)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2021.10.07-00.33.34:515][698]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 512X512)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_1_27 (DXT1, 512X512)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (DXT1, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (DXT1, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_45 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_47 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_48 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_49 (AutoDXT, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (DXT1, 256X256)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_50 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_50 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_51 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: LQ_Lightmap_0_51 (DXT1, 128X128)
+[2021.10.07-00.33.34:516][698]LogTexture: Display: Building textures: HQ_Lightmap0_52 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_52 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_53 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_53 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_54 (AutoDXT, 256X256)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_54 (DXT1, 256X256)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_55 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_55 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_56 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_57 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_57 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_58 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_58 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap1_59 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_1_59 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_60 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_60 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_61 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_61 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_62 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_62 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_63 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_63 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_64 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_64 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_65 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_65 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_66 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_66 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_67 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_68 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_68 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_69 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_69 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_70 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_70 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_71 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_71 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_72 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_72 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_73 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: LQ_Lightmap_0_73 (DXT1, 128X128)
+[2021.10.07-00.33.34:517][698]LogTexture: Display: Building textures: HQ_Lightmap0_67 (AutoDXT, 128X128)
+[2021.10.07-00.33.34:639][698]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X256)
+[2021.10.07-00.33.34:639][698]Lightmass on MSS3110-15: 30.9 sec total, 291 ms importing, 652 ms setup, 6.16 sec photons, 23.8 sec processing, 0 ms extra exporting [3490/3490 mappings]. Threads: 5:57 min total, 2:51 min processing.
+[2021.10.07-00.33.34:645][698]LogStaticLightingSystem: FinalGameLevel1_BuiltData storing lightmap data for 841 meshes in 62 LightmapResourceClusters (13.6 Meshes per cluster).
+[2021.10.07-00.33.34:645][698]LogStaticLightingSystem: TeacherMarketplace_LIGHTING_01_BuiltData storing lightmap data for 41 meshes in 14 LightmapResourceClusters (2.9 Meshes per cluster).
+[2021.10.07-00.33.34:712][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.10.07-00.33.34:758][698]LogStaticLightingSystem: Illumination: 32.0 sec (2.22 sec encoding lightmaps, 43 ms encoding shadowmaps)
+[2021.10.07-00.33.34:758][698]LogStaticLightingSystem: Lightmap texture memory:  32.2 MB (32.2 MB streaming, 0.0 MB non-streaming), 146 textures
+[2021.10.07-00.33.34:758][698]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2021.10.07-00.33.35:532][698]DumpUnbuiltLightIteractions
+[2021.10.07-00.33.35:532][698]Lights with unbuilt interactions: 0
+[2021.10.07-00.33.35:532][698]
+[2021.10.07-00.33.35:532][698]Primitives with unbuilt interactions: 0
+[2021.10.07-00.33.35:609][699]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.07-00.33.35:609][699]MapCheck: New page: FinalGameLevel1 - Oct 6, 2021, 4:33:35 PM
+[2021.10.07-00.33.35:613][699]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.778ms to complete.
+[2021.10.07-00.33.38:015][713]LogSlate: Window 'Message Log' being destroyed
+[2021.10.07-00.33.38:018][713]LogSlate: Window 'Message Log' being destroyed
