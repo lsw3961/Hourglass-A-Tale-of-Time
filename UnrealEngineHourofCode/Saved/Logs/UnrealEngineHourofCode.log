@@ -1678,3 +1678,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.07-00.12.24:734][737]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.07-00.12.24:734][737]LogContentValidation: Display: Validating World /Game/Hour_of_Code/Maps/FinalGameLevel2.FinalGameLevel2
 [2021.10.07-00.12.24:734][737]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Hour_of_Code/Maps/FinalGameLevel2_BuiltData.FinalGameLevel2_BuiltData
+[2021.10.07-00.12.43:387][952]Cmd: SELECT NONE
+[2021.10.07-00.13.12:129][682]LogEditorViewport: Clicking on Actor (LMB): BP_coin_C (BP_coin5)
+[2021.10.07-00.13.13:055][770]Cmd: DELETE
+[2021.10.07-00.13.13:055][770]Cmd: ACTOR DELETE
+[2021.10.07-00.13.13:071][770]LogEditorActor: Deleted Actor: BP_coin_C
+[2021.10.07-00.13.13:097][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.10.07-00.13.13:101][770]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.10.07-00.13.13:628][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island8)
+[2021.10.07-00.13.14:042][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island8)
+[2021.10.07-00.13.14:580][913]LogEditorViewport: Clicking on Actor (LMB): BP_coin_C (BP_coin4)
+[2021.10.07-00.13.14:908][941]Cmd: DELETE
+[2021.10.07-00.13.14:908][941]Cmd: ACTOR DELETE
+[2021.10.07-00.13.14:923][941]LogEditorActor: Deleted Actor: BP_coin_C
+[2021.10.07-00.13.14:941][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.07-00.13.14:943][941]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.10.07-00.14.45:402][ 78]Cmd: TRANSACTION UNDO
+[2021.10.07-00.14.45:402][ 78]LogEditorTransaction: Undo Create Actors
+[2021.10.07-00.15.58:143][385]Cmd: SELECT NONE
+[2021.10.07-00.16.11:627][933]LogEditorViewport: Clicking on Actor (LMB): BP_coin_C (BP_coin31)
+[2021.10.07-00.16.56:224][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.10.07-00.16.56:506][ 14]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/FinalGameLevel26931F7DC47A7EA051975EAAEB6B8D589.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Maps/FinalGameLevel2.umap'
+[2021.10.07-00.16.57:124][ 14]LogSavePackage: Moving 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Saved/FinalGameLevel2_BuiltData8EB9A3484229C9F938C956B40B102C35.tmp' to 'D:/Profiles/lsw3961/Documents/GitHub/Hourglass-A-Tale-of-Time/UnrealEngineHourofCode/Content/Hour_of_Code/Maps/FinalGameLevel2_BuiltData.uasset'
+[2021.10.07-00.16.57:142][ 14]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.07-00.16.57:142][ 14]LogContentValidation: Display: Validating World /Game/Hour_of_Code/Maps/FinalGameLevel2.FinalGameLevel2
+[2021.10.07-00.16.57:142][ 14]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Hour_of_Code/Maps/FinalGameLevel2_BuiltData.FinalGameLevel2_BuiltData
